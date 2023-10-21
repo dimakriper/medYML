@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-10-21 07:24">
+<yml_catalog date="2023-10-21 07:31">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
         <url>https://mcmedikor.ru</url>
-        <picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
+        <picture>https://rawcdn.githack.com/dimakriper/medYML/8a5a17dfdec61c87629819f6a0e6153af2878628/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20%D0%A6%D0%9D%D0%9C.jpg</picture>
         <currencies>
             <currency id="RUR" rate="1"/>
         </currencies>
