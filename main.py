@@ -1,0 +1,14 @@
+from logger import logger
+from reader import get_data
+from writer import create_yml
+
+logger.info('START')
+try:
+    header, body = get_data()
+except Exception as e:
+    logger.critical(e, exc_info=True)
+    logger.error('reader module raised an error')
+
+create_yml(header, body)
+logger.info('END\n\n')
+
