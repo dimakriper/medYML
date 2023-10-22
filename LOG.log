@@ -1,0 +1,306 @@
+2023-10-22 22:43:39,602:INFO - START
+2023-10-22 22:43:39,607:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:40,290:DEBUG - https://app.rnova.org:443 "POST /api/public/getProfessions HTTP/1.1" 200 None
+2023-10-22 22:43:40,293:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:40,733:DEBUG - https://app.rnova.org:443 "POST /api/public/getUsers HTTP/1.1" 200 None
+2023-10-22 22:43:40,736:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:41,089:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:41,092:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:41,428:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:41,431:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:41,753:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:41,756:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:42,083:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:42,086:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:42,424:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:42,428:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:42,760:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:42,763:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:43,095:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:43,098:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:43,426:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:43,428:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:43,760:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:43,762:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:44,097:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:44,100:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:44,424:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:44,426:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:44,748:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:44,750:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:45,072:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:45,075:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:45,406:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:45,409:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:45,736:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:45,739:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:46,070:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:46,073:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:46,396:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:46,398:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:46,743:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:46,746:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:47,073:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:47,076:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:47,408:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:47,411:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:47,732:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:47,735:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:48,053:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:48,056:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:48,381:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:48,383:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:48,710:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:48,712:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:49,032:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:49,035:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:49,370:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:49,373:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:49,711:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:49,713:CRITICAL - not enough values to unpack (expected 3, got 1)
+Traceback (most recent call last):
+  File "F:\medYML\reader.py", line 20, in get_data
+    doctor.set_content(item)
+  File "F:\medYML\classes.py", line 92, in set_content
+    self.surname, self.name, self.midname = data["name"].split()
+ValueError: not enough values to unpack (expected 3, got 1)
+2023-10-22 22:43:49,713:ERROR - following item is skipped {'id': 5833, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33_small.jpg', 'name': 'РЕНТГЕН', 'birth_date': None, 'gender': None, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [], 'profession': ['510'], 'profession_titles': 'РЕНТГЕН', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'ЦЕНТР "МЕДИКОР"', 'avg_time': 15, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '2 РЕНТГЕН', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2023-10-22 22:43:49,714:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:50,051:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:50,054:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:50,379:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:50,382:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:50,702:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:50,705:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:51,029:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:51,031:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:51,354:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:51,356:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:43:51,676:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 4796
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 4723
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 5401
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 12659
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 4783
+2023-10-22 22:43:51,679:ERROR - Годы опыта raised in error. param skippet in item 7467
+2023-10-22 22:43:51,679:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,679:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 9382
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 20344
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 18435
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 5212
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 4802
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 4800
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 4797
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 8330
+2023-10-22 22:43:51,680:ERROR - Телефон для записи raised in error. param skippet in item 8330
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 14120
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 16962
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 14360
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 20278
+2023-10-22 22:43:51,680:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 4831
+2023-10-22 22:43:51,680:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,680:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,680:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,680:ERROR - Годы опыта raised in error. param skippet in item 4793
+2023-10-22 22:43:51,681:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,681:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 12270
+2023-10-22 22:43:51,681:ERROR - Телефон для записи raised in error. param skippet in item 12270
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 4799
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 5883
+2023-10-22 22:43:51,681:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,681:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 4781
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 4823
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 11806
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 5156
+2023-10-22 22:43:51,681:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 8088
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 4822
+2023-10-22 22:43:51,681:ERROR - Годы опыта raised in error. param skippet in item 6110
+2023-10-22 22:43:51,687:ERROR - Годы опыта raised in error. param skippet in item 4801
+2023-10-22 22:43:51,687:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:43:51,687:ERROR - Годы опыта raised in error. param skippet in item 9919
+2023-10-22 22:43:51,687:ERROR - Годы опыта raised in error. param skippet in item 13203
+2023-10-22 22:43:51,707:INFO - END
+
+
+2023-10-22 22:49:14,597:INFO - START
+2023-10-22 22:49:14,603:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:14,909:DEBUG - https://app.rnova.org:443 "POST /api/public/getProfessions HTTP/1.1" 200 None
+2023-10-22 22:49:14,912:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:15,224:DEBUG - https://app.rnova.org:443 "POST /api/public/getUsers HTTP/1.1" 200 None
+2023-10-22 22:49:15,227:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:15,554:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:15,557:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:15,876:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:15,879:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:16,194:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:16,196:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:16,519:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:16,523:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:16,868:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:16,872:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:17,196:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:17,199:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:17,524:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:17,528:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:17,847:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:17,850:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:18,168:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:18,171:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:18,497:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:18,500:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:18,814:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:18,817:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:19,132:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:19,135:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:19,459:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:19,462:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:19,776:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:19,780:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:20,104:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:20,107:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:20,434:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:20,438:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:20,754:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:20,757:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:21,070:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:21,073:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:21,393:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:21,396:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:21,718:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:21,721:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:22,041:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:22,044:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:22,367:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:22,370:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:22,687:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:22,690:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:23,008:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:23,011:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:23,327:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:23,331:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:23,651:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:23,654:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:23,973:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:23,976:CRITICAL - not enough values to unpack (expected 3, got 1)
+Traceback (most recent call last):
+  File "F:\medYML\reader.py", line 20, in get_data
+    doctor.set_content(item)
+  File "F:\medYML\classes.py", line 92, in set_content
+    self.surname, self.name, self.midname = data["name"].split()
+ValueError: not enough values to unpack (expected 3, got 1)
+2023-10-22 22:49:23,976:ERROR - following item is skipped {'id': 5833, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33_small.jpg', 'name': 'РЕНТГЕН', 'birth_date': None, 'gender': None, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [], 'profession': ['510'], 'profession_titles': 'РЕНТГЕН', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'ЦЕНТР "МЕДИКОР"', 'avg_time': 15, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '2 РЕНТГЕН', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2023-10-22 22:49:23,978:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:24,298:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:24,302:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:24,616:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:24,620:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:24,941:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:24,944:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:25,260:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:25,263:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:25,581:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:25,584:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:49:25,903:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:49:25,906:ERROR - Годы опыта raised in error. param skippet in item 4796
+2023-10-22 22:49:25,906:ERROR - Годы опыта raised in error. param skippet in item 4723
+2023-10-22 22:49:25,906:ERROR - Годы опыта raised in error. param skippet in item 5401
+2023-10-22 22:49:25,907:ERROR - Годы опыта raised in error. param skippet in item 12659
+2023-10-22 22:49:25,907:ERROR - Годы опыта raised in error. param skippet in item 4783
+2023-10-22 22:49:25,907:ERROR - Годы опыта raised in error. param skippet in item 7467
+2023-10-22 22:49:25,908:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,908:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,908:ERROR - Годы опыта raised in error. param skippet in item 9382
+2023-10-22 22:49:25,908:ERROR - Годы опыта raised in error. param skippet in item 20344
+2023-10-22 22:49:25,909:ERROR - Годы опыта raised in error. param skippet in item 18435
+2023-10-22 22:49:25,910:ERROR - Годы опыта raised in error. param skippet in item 5212
+2023-10-22 22:49:25,910:ERROR - Годы опыта raised in error. param skippet in item 4802
+2023-10-22 22:49:25,911:ERROR - Годы опыта raised in error. param skippet in item 4800
+2023-10-22 22:49:25,911:ERROR - Годы опыта raised in error. param skippet in item 4797
+2023-10-22 22:49:25,911:ERROR - Годы опыта raised in error. param skippet in item 8330
+2023-10-22 22:49:25,912:ERROR - Телефон для записи raised in error. param skippet in item 8330
+2023-10-22 22:49:25,912:ERROR - Годы опыта raised in error. param skippet in item 14120
+2023-10-22 22:49:25,912:ERROR - Годы опыта raised in error. param skippet in item 16962
+2023-10-22 22:49:25,913:ERROR - Годы опыта raised in error. param skippet in item 14360
+2023-10-22 22:49:25,913:ERROR - Годы опыта raised in error. param skippet in item 20278
+2023-10-22 22:49:25,913:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,914:ERROR - Годы опыта raised in error. param skippet in item 4831
+2023-10-22 22:49:25,914:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,914:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,914:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,915:ERROR - Годы опыта raised in error. param skippet in item 4793
+2023-10-22 22:49:25,915:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,915:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,916:ERROR - Годы опыта raised in error. param skippet in item 12270
+2023-10-22 22:49:25,916:ERROR - Телефон для записи raised in error. param skippet in item 12270
+2023-10-22 22:49:25,916:ERROR - Годы опыта raised in error. param skippet in item 4799
+2023-10-22 22:49:25,916:ERROR - Годы опыта raised in error. param skippet in item 5883
+2023-10-22 22:49:25,917:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,917:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,917:ERROR - Годы опыта raised in error. param skippet in item 4781
+2023-10-22 22:49:25,918:ERROR - Годы опыта raised in error. param skippet in item 4823
+2023-10-22 22:49:25,918:ERROR - Годы опыта raised in error. param skippet in item 11806
+2023-10-22 22:49:25,918:ERROR - Годы опыта raised in error. param skippet in item 5156
+2023-10-22 22:49:25,918:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,919:ERROR - Годы опыта raised in error. param skippet in item 8088
+2023-10-22 22:49:25,919:ERROR - Годы опыта raised in error. param skippet in item 4822
+2023-10-22 22:49:25,919:ERROR - Годы опыта raised in error. param skippet in item 6110
+2023-10-22 22:49:25,919:ERROR - Годы опыта raised in error. param skippet in item 4801
+2023-10-22 22:49:25,920:ERROR - item  has lack of data provided. item is skipped
+2023-10-22 22:49:25,920:ERROR - Годы опыта raised in error. param skippet in item 9919
+2023-10-22 22:49:25,920:ERROR - Годы опыта raised in error. param skippet in item 13203
+2023-10-22 22:49:25,937:INFO - END
+
+
+2023-10-22 22:50:32,435:INFO - START
+2023-10-22 22:50:32,438:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:32,745:DEBUG - https://app.rnova.org:443 "POST /api/public/getProfessions HTTP/1.1" 200 None
+2023-10-22 22:50:32,748:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:33,052:DEBUG - https://app.rnova.org:443 "POST /api/public/getUsers HTTP/1.1" 200 None
+2023-10-22 22:50:33,054:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:33,372:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:33,375:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:33,692:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:33,695:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:34,015:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:34,017:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:34,336:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:34,339:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:34,664:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:34,668:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:34,997:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:35,000:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:35,316:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:35,319:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:35,641:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:35,644:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:35,971:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:35,974:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:36,307:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:36,310:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:36,629:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:36,632:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:36,954:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:36,958:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:37,285:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:37,288:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:37,612:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:37,616:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:37,943:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:37,946:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:38,266:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:38,270:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:38,586:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:38,589:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:38,912:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:38,915:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:39,241:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:39,244:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:39,559:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:39,562:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-10-22 22:50:39,891:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-10-22 22:50:39,894:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443

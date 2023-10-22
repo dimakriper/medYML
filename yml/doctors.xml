@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-10-21 07:31">
+<yml_catalog date="2023-10-22 22:49">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -588,31 +588,6 @@
                 <param name="внутренний идентификатор врача">20278</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="4808">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
-                <price>600</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
-                <name>Капранов Александр Николаевич</name>
-                <description/>
-                <param name="Фамилия">Капранов</param>
-                <param name="Имя">Александр</param>
-                <param name="Отчество">Николаевич</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (903) 820-50-51</param>
-                <param name="внутренний идентификатор врача">4808</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
             </offer>
             <offer id="4831">
