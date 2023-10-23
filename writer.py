@@ -73,6 +73,7 @@ def create_yml(header, body):
                 description = ET.SubElement(offer, 'description')
                 description.text = item.description
                 params = item.get_params()
+
                 for key in params.keys():
                     if params[key] != '' and params[key] != 'none':
                         param = ET.SubElement(offer, 'param')
@@ -83,7 +84,8 @@ def create_yml(header, body):
             except:
                 logger.error('%s raised an error' % item.name)
                 raise
-        else: logger.error(f'item {item.id} has lack of data provided. item is skipped')
+        else:
+            logger.error(f'item {item.id} has lack of data provided. item is skipped')
     mydata = minidom.parseString(ET.tostring(data)).toprettyxml(indent='    ')
 
     # os.mkdir('yml')

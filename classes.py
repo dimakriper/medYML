@@ -82,7 +82,8 @@ class Offer:
             "внутренний идентификатор врача": self.id,
             "внутренний идентификатор клиники": '550',
             "Вызов на дом": self.is_outside,
-            "Прием по видеосвязи": self.is_telemedicine
+            "Прием по видеосвязи": self.is_telemedicine,
+            "Категория": self.qualification
             # TODO: add education, add schedule
         }
     def set_content(self, data):
@@ -98,14 +99,15 @@ class Offer:
             self.is_outside = f'{data["is_outside"]}'.lower() if data["is_outside"] else 'false'
             self.is_telemedicine = f'{data["is_telemedicine"]}'.lower() if data["is_telemedicine"] else 'false'
             self.full_name = data["name"]
-            self.experience_years = f'{data["work_period"]}'
+            self.experience_years = data["work_period"].split()[0]
+
             self.date_work_from = f'{data["date_work_from"]}'.lower()
             self.work_degree = f'{data["work_degree"]}'.lower()
             self.work_rank = f'{data["work_rank"]}'.lower()
             self.work_academy_status =f'{ data["work_academy_status"]}'.lower()
-            self.qualification = f'{data["qualification"]}'.lower()
+            self.qualification = data["qualification"].split()[0] if data["qualification"] else 'none'
+            print(self.qualification)
             self.education = data["education"]
-            self.experience_years = f'{data["work_period"]}'.lower()
             self.id = f'{data["id"]}'.lower()
             self.url = f'https://mcmedikor.ru/zapis-na-vizit?doctor={self.id}'
 

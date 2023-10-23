@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-10-22 22:49">
+<yml_catalog date="2023-10-23 10:30">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -153,6 +153,7 @@
                 <param name="Фамилия">Абросимов</param>
                 <param name="Имя">Альберт</param>
                 <param name="Отчество">Викторович</param>
+                <param name="Годы опыта">34</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -165,6 +166,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4723">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4723</url>
@@ -178,6 +180,7 @@
                 <param name="Фамилия">Антропова</param>
                 <param name="Имя">Марина</param>
                 <param name="Отчество">Вениаминовна</param>
+                <param name="Годы опыта">39</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -203,6 +206,7 @@
                 <param name="Фамилия">Артемьева</param>
                 <param name="Имя">Анна</param>
                 <param name="Отчество">Юрьевна</param>
+                <param name="Годы опыта">28</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -228,6 +232,7 @@
                 <param name="Фамилия">Архипова</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">36</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
@@ -240,6 +245,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4783">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
@@ -253,6 +259,7 @@
                 <param name="Фамилия">Батталова</param>
                 <param name="Имя">Наиля</param>
                 <param name="Отчество">Валижановна</param>
+                <param name="Годы опыта">36</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
@@ -265,6 +272,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="7467">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=7467</url>
@@ -278,6 +286,7 @@
                 <param name="Фамилия">Бовина</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Витальевна</param>
+                <param name="Годы опыта">21</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -303,6 +312,7 @@
                 <param name="Фамилия">Виноградова</param>
                 <param name="Имя">Анна</param>
                 <param name="Отчество">Александровна</param>
+                <param name="Годы опыта">29</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">true</param>
@@ -328,6 +338,7 @@
                 <param name="Фамилия">Воронина</param>
                 <param name="Имя">Мария</param>
                 <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">18</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -340,56 +351,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="18435">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=18435</url>
-                <price>2600</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/5410da1e80ce9bf398f2cacab510ff27.png</picture>
-                <name>Гаврилова Татьяна Александровна</name>
-                <description/>
-                <param name="Фамилия">Гаврилова</param>
-                <param name="Имя">Татьяна</param>
-                <param name="Отчество">Александровна</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (980) 708-25-59</param>
-                <param name="внутренний идентификатор врача">18435</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="5212">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=5212</url>
-                <price>1200</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/cbbf5648c45474233a1e585ac093e7a4.jpg</picture>
-                <name>Гилаваров Роман Гилаварович</name>
-                <description/>
-                <param name="Фамилия">Гилаваров</param>
-                <param name="Имя">Роман</param>
-                <param name="Отчество">Гилаварович</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (920) 116-59-63</param>
-                <param name="внутренний идентификатор врача">5212</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Первая</param>
             </offer>
             <offer id="4802">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4802</url>
@@ -403,6 +365,7 @@
                 <param name="Фамилия">Голубева</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">32</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -415,6 +378,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4800">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4800</url>
@@ -428,6 +392,7 @@
                 <param name="Фамилия">Гурьев</param>
                 <param name="Имя">Николай</param>
                 <param name="Отчество">Павлович</param>
+                <param name="Годы опыта">46</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -440,6 +405,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4797">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4797</url>
@@ -453,6 +419,7 @@
                 <param name="Фамилия">Жежера</param>
                 <param name="Имя">Андрей</param>
                 <param name="Отчество">Владимирович</param>
+                <param name="Годы опыта">30</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -465,6 +432,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="8330">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8330</url>
@@ -478,6 +446,7 @@
                 <param name="Фамилия">Захаренко</param>
                 <param name="Имя">Дмитрий</param>
                 <param name="Отчество">Иванович</param>
+                <param name="Годы опыта">29</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">true</param>
@@ -488,31 +457,6 @@
                 <param name="внутренний идентификатор врача">8330</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="14120">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=14120</url>
-                <price>800</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/11241d0211b95631577a4988554132fc.jpg</picture>
-                <name>Иванов Александр Юрьевич</name>
-                <description/>
-                <param name="Фамилия">Иванов</param>
-                <param name="Имя">Александр</param>
-                <param name="Отчество">Юрьевич</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (915) 970-86-07</param>
-                <param name="внутренний идентификатор врача">14120</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
             </offer>
             <offer id="16962">
@@ -527,6 +471,7 @@
                 <param name="Фамилия">Кадырбеков</param>
                 <param name="Имя">Руслан</param>
                 <param name="Отчество">Набибуллаевич</param>
+                <param name="Годы опыта">2</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
@@ -552,6 +497,7 @@
                 <param name="Фамилия">Калягина</param>
                 <param name="Имя">Галина</param>
                 <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">7</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">true</param>
@@ -565,18 +511,19 @@
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
             </offer>
-            <offer id="20278">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=20278</url>
-                <price>1800</price>
+            <offer id="4808">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
+                <price>600</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/21a07de58925dfc301954f2ee3eed287.png</picture>
-                <name>Капранова Вероника Викторовна</name>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
+                <name>Капранов Александр Николаевич</name>
                 <description/>
-                <param name="Фамилия">Капранова</param>
-                <param name="Имя">Вероника</param>
-                <param name="Отчество">Викторовна</param>
+                <param name="Фамилия">Капранов</param>
+                <param name="Имя">Александр</param>
+                <param name="Отчество">Николаевич</param>
+                <param name="Годы опыта">27</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -584,10 +531,10 @@
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
                 <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
                 <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (905) 130-98-18</param>
-                <param name="внутренний идентификатор врача">20278</param>
+                <param name="Телефон для записи">+7 (903) 820-50-51</param>
+                <param name="внутренний идентификатор врача">4808</param>
                 <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
+                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
             </offer>
             <offer id="4831">
@@ -602,6 +549,7 @@
                 <param name="Фамилия">Комлева</param>
                 <param name="Имя">Лариса</param>
                 <param name="Отчество">Леонидовна</param>
+                <param name="Годы опыта">24</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -614,6 +562,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4793">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4793</url>
@@ -627,6 +576,7 @@
                 <param name="Фамилия">Лавникович</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Васильевна</param>
+                <param name="Годы опыта">32</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -652,6 +602,7 @@
                 <param name="Фамилия">Лончакова</param>
                 <param name="Имя">Оксана</param>
                 <param name="Отчество">Михайловна</param>
+                <param name="Годы опыта">18</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -663,6 +614,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Первая</param>
             </offer>
             <offer id="4799">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4799</url>
@@ -676,6 +628,7 @@
                 <param name="Фамилия">Мокеева</param>
                 <param name="Имя">Юлия</param>
                 <param name="Отчество">Рудольфовна</param>
+                <param name="Годы опыта">26</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -701,6 +654,7 @@
                 <param name="Фамилия">Нагорнова</param>
                 <param name="Имя">Эмилия</param>
                 <param name="Отчество">Юрьевна</param>
+                <param name="Годы опыта">26</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">false</param>
@@ -713,6 +667,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4781">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4781</url>
@@ -726,6 +681,7 @@
                 <param name="Фамилия">Петерсен</param>
                 <param name="Имя">Ольга</param>
                 <param name="Отчество">Сергеевна</param>
+                <param name="Годы опыта">25</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -751,6 +707,7 @@
                 <param name="Фамилия">Пилюгина</param>
                 <param name="Имя">Ирина</param>
                 <param name="Отчество">Евгеньевна</param>
+                <param name="Годы опыта">33</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -763,6 +720,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="11806">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=11806</url>
@@ -776,6 +734,7 @@
                 <param name="Фамилия">Пицына</param>
                 <param name="Имя">Марина</param>
                 <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">25</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
@@ -785,31 +744,6 @@
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (906) 632-89-22</param>
                 <param name="внутренний идентификатор врача">11806</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="5156">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=5156</url>
-                <price>700</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids/>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b4760a6b9952488b17fd645a21be8611.jpg</picture>
-                <name>Преображенская Ольга Борисовна</name>
-                <description/>
-                <param name="Фамилия">Преображенская</param>
-                <param name="Имя">Ольга</param>
-                <param name="Отчество">Борисовна</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">false</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (903) 825-77-37</param>
-                <param name="внутренний идентификатор врача">5156</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
@@ -826,6 +760,7 @@
                 <param name="Фамилия">Сипилина</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Алексеевна</param>
+                <param name="Годы опыта">18</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -851,6 +786,7 @@
                 <param name="Фамилия">Смирнов</param>
                 <param name="Имя">Сергей</param>
                 <param name="Отчество">Альбертович</param>
+                <param name="Годы опыта">32</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -876,6 +812,7 @@
                 <param name="Фамилия">Соловьева</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Васильевна</param>
+                <param name="Годы опыта">43</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">true</param>
@@ -888,6 +825,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4801">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4801</url>
@@ -901,6 +839,7 @@
                 <param name="Фамилия">Трифонова</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Николаевна</param>
+                <param name="Годы опыта">26</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -913,6 +852,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Первая</param>
             </offer>
             <offer id="9919">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=9919</url>
@@ -926,6 +866,7 @@
                 <param name="Фамилия">Чернецов</param>
                 <param name="Имя">Владимир</param>
                 <param name="Отчество">Юрьевич</param>
+                <param name="Годы опыта">29</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -951,6 +892,7 @@
                 <param name="Фамилия">Шабарова</param>
                 <param name="Имя">Ирина</param>
                 <param name="Отчество">Валерьевна</param>
+                <param name="Годы опыта">26</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">true</param>
@@ -963,6 +905,7 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Первая</param>
             </offer>
         </offers>
     </shop>
