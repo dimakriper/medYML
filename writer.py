@@ -65,7 +65,7 @@ def create_yml(header, body):
                 categoryId = ET.SubElement(offer, 'categoryId')
                 categoryId.text = item.categoryId
                 set_ids = ET.SubElement(offer, 'set_ids')
-                set_ids.text = ",".join(item.set_ids)
+                set_ids.text = ",".join(item.profession)
                 picture = ET.SubElement(offer, 'picture')
                 picture.text = item.avatar
                 name = ET.SubElement(offer, 'name')
