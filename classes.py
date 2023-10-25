@@ -19,7 +19,7 @@ class Shop:
                           {'api_key': api_key})
         c_data = c.json()["data"]
         for item in c_data:
-            if item["doctor_name"]:
+            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764:
                 self.sets.append({
                     'name': item["doctor_name"] if item["doctor_name"] else item["name"],
                     'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',

@@ -14,15 +14,16 @@ def get_data():
     doctors_list = d.json()['data']
 
     for item in doctors_list:
-        try:
-            # print(item)
-            doctor = classes.Offer()
-            doctor.set_content(item)
-            # print(doctor)
-            doctor.set_price()
-            doctors.append(doctor)
-        except Exception as e:
-            logger.critical(e, exc_info=True)
-            logger.error('following item is skipped %s' % (item))
+        if '451' not in item["profession"] and '764' not in item["profession"]:
+            try:
+                # print(item)
+                doctor = classes.Offer()
+                doctor.set_content(item)
+                # print(doctor)
+                doctor.set_price()
+                doctors.append(doctor)
+            except Exception as e:
+                logger.critical(e, exc_info=True)
+                logger.error('following item is skipped %s' % (item))
 
     return [clinic, doctors]
