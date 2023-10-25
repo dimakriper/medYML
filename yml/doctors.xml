@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-10-23 21:19">
+<yml_catalog date="2023-10-25 15:55">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -61,14 +61,6 @@
             <set id="22">
                 <name>Врач мануальной терапии</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=22</url>
-            </set>
-            <set id="451">
-                <name>медицинская сестра по массажу</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=451</url>
-            </set>
-            <set id="764">
-                <name>медицинский психолог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=764</url>
             </set>
             <set id="23">
                 <name>Врач-невролог</name>
@@ -173,7 +165,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>48,511,1026,453</set_ids>
+                <set_ids>453,511,48,1026</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/3e48326b51e4fac727eb40ff64cd621d.jpg</picture>
                 <name>Антропова Марина Вениаминовна</name>
                 <description/>
@@ -219,33 +211,6 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="12659">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=12659</url>
-                <price>700</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids>451</set_ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/ff30752d3848f262e1375ebe092e28b3.jpg</picture>
-                <name>Архипова Наталья Владимировна</name>
-                <description/>
-                <param name="Фамилия">Архипова</param>
-                <param name="Имя">Наталья</param>
-                <param name="Отчество">Владимировна</param>
-                <param name="Годы опыта">36</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (905) 636-20-26</param>
-                <param name="внутренний идентификатор врача">12659</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Категория">Высшая</param>
             </offer>
             <offer id="4783">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
@@ -305,7 +270,7 @@
                 <price>700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>717,508</set_ids>
+                <set_ids>508,717</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/1fe80ce27bcd4aa2afcc03fc907bf94c.jpg</picture>
                 <name>Виноградова Анна Александровна</name>
                 <description/>
@@ -358,7 +323,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>511,15</set_ids>
+                <set_ids>15,511</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d3f1445f9e4cd6374ae0b322d325e546.jpg</picture>
                 <name>Голубева Наталья Владимировна</name>
                 <description/>
@@ -439,7 +404,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>31,4,646,645,25</set_ids>
+                <set_ids>646,31,4,645,25</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
                 <description/>
@@ -448,7 +413,7 @@
                 <param name="Отчество">Иванович</param>
                 <param name="Годы опыта">29</param>
                 <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">false</param>
+                <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
@@ -509,32 +474,6 @@
                 <param name="внутренний идентификатор врача">14360</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-            </offer>
-            <offer id="4808">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
-                <price>600</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids>22,451</set_ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
-                <name>Капранов Александр Николаевич</name>
-                <description/>
-                <param name="Фамилия">Капранов</param>
-                <param name="Имя">Александр</param>
-                <param name="Отчество">Николаевич</param>
-                <param name="Годы опыта">27</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (903) 820-50-51</param>
-                <param name="внутренний идентификатор врача">4808</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
             </offer>
             <offer id="4831">
@@ -674,7 +613,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>511,453,48</set_ids>
+                <set_ids>453,511,48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/616e89a1ce6e9344d333033827506ecf.jpg</picture>
                 <name>Петерсен Ольга Сергеевна</name>
                 <description/>
@@ -805,7 +744,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>31,645</set_ids>
+                <set_ids>645,31</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/85d1de4458df0b1ff468c630fab4a22d.jpg</picture>
                 <name>Соловьева Татьяна Васильевна</name>
                 <description/>
@@ -832,7 +771,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>511,15</set_ids>
+                <set_ids>15,511</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f0f3c7c0e225c525379abe8fd39185a8.jpg</picture>
                 <name>Трифонова Татьяна Николаевна</name>
                 <description/>
@@ -853,32 +792,6 @@
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Категория">Первая</param>
-            </offer>
-            <offer id="9919">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=9919</url>
-                <price>1800</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids>764</set_ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/56a9f3d2c234974495bf3e5f961c53f4.jpg</picture>
-                <name>Чернецов Владимир Юрьевич</name>
-                <description/>
-                <param name="Фамилия">Чернецов</param>
-                <param name="Имя">Владимир</param>
-                <param name="Отчество">Юрьевич</param>
-                <param name="Годы опыта">29</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (903) 824-51-19</param>
-                <param name="внутренний идентификатор врача">9919</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
             </offer>
             <offer id="13203">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=13203</url>
