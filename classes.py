@@ -28,6 +28,7 @@ class Shop:
 
 class Offer:
     def __init__(self):
+        self.service_id = ''
         self.id = ''
         self.url = ''
         self.price = ''
@@ -83,7 +84,8 @@ class Offer:
             "внутренний идентификатор клиники": '550',
             "Вызов на дом": self.is_outside,
             "Прием по видеосвязи": self.is_telemedicine,
-            "Категория": self.qualification
+            "Категория": self.qualification,
+            "Онлайн-расписание": 'true'
             # TODO: add education, add schedule
         }
     def set_content(self, data):
@@ -119,5 +121,6 @@ class Offer:
             for item in p_data:
                 if item["title"].find('Доплата') == -1:
                     self.price = item["price"]
+                    self.service_id = str(item["service_id"])
                     return
 
