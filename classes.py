@@ -2,6 +2,12 @@ import re
 import requests
 from manage import api_key
 
+def remove_pattern(input_string, pattern):
+    # Используйте re.sub для замены совпадений шаблона пустой строкой
+    result = re.sub(pattern, '', input_string)
+    return result
+
+
 class Shop:
     def __init__(self):
         self.name = 'ЦЕНТР "МЕДИКОР"'
@@ -21,7 +27,7 @@ class Shop:
         for item in c_data:
             if item["doctor_name"] and item["id"] != 451 and item["id"] != 764:
                 self.sets.append({
-                    'name': item["doctor_name"] if item["doctor_name"] else item["name"],
+                    'name': remove_pattern(item["doctor_name"], r'[Вв]рач-') if item["doctor_name"] else item["name"],
                     'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',
                     'id': str(item["id"])
                 })
