@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-11-10 16:11">
+<yml_catalog date="2023-11-11 14:35">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -145,7 +145,6 @@
                 <set_ids>23</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/eab131cb782b83e350aba2a22458e983.jpg</picture>
                 <name>Абросимов Альберт Викторович</name>
-                <description/>
                 <param name="Фамилия">Абросимов</param>
                 <param name="Имя">Альберт</param>
                 <param name="Отчество">Викторович</param>
@@ -173,7 +172,6 @@
                 <set_ids>48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/3e48326b51e4fac727eb40ff64cd621d.jpg</picture>
                 <name>Антропова Марина Вениаминовна</name>
-                <description/>
                 <param name="Фамилия">Антропова</param>
                 <param name="Имя">Марина</param>
                 <param name="Отчество">Вениаминовна</param>
@@ -200,7 +198,6 @@
                 <set_ids>35</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/6d1d707883d96236b68531d1ae8d6981.jpeg</picture>
                 <name>Артемьева Анна Юрьевна</name>
-                <description/>
                 <param name="Фамилия">Артемьева</param>
                 <param name="Имя">Анна</param>
                 <param name="Отчество">Юрьевна</param>
@@ -224,10 +221,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>51,58</set_ids>
+                <set_ids>58,51</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/89966a0d7dc4d74f5e3ea588d225f0eb.jpg</picture>
                 <name>Батталова Наиля Валижановна</name>
-                <description/>
                 <param name="Фамилия">Батталова</param>
                 <param name="Имя">Наиля</param>
                 <param name="Отчество">Валижановна</param>
@@ -252,10 +248,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>48,4</set_ids>
+                <set_ids>4,48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/1f656cf8931610e576c8a14c1ff1b2a8.jpg</picture>
                 <name>Бовина Наталья Витальевна</name>
-                <description/>
                 <param name="Фамилия">Бовина</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Витальевна</param>
@@ -282,7 +277,6 @@
                 <set_ids>717,508</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/1fe80ce27bcd4aa2afcc03fc907bf94c.jpg</picture>
                 <name>Виноградова Анна Александровна</name>
-                <description/>
                 <param name="Фамилия">Виноградова</param>
                 <param name="Имя">Анна</param>
                 <param name="Отчество">Александровна</param>
@@ -309,7 +303,6 @@
                 <set_ids>508</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/84f32fb127a131d16ee5d43ba6de18c1.jpg</picture>
                 <name>Воронина Мария Владимировна</name>
-                <description/>
                 <param name="Фамилия">Воронина</param>
                 <param name="Имя">Мария</param>
                 <param name="Отчество">Владимировна</param>
@@ -337,7 +330,6 @@
                 <set_ids>15</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d3f1445f9e4cd6374ae0b322d325e546.jpg</picture>
                 <name>Голубева Наталья Владимировна</name>
-                <description/>
                 <param name="Фамилия">Голубева</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Владимировна</param>
@@ -365,7 +357,6 @@
                 <set_ids>23</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/01f0959a2bb0c220add03c4682b53bbd.jpg</picture>
                 <name>Гурьев Николай Павлович</name>
-                <description/>
                 <param name="Фамилия">Гурьев</param>
                 <param name="Имя">Николай</param>
                 <param name="Отчество">Павлович</param>
@@ -393,7 +384,6 @@
                 <set_ids>23,22</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/761c492bf37ac86a3d178898d699e4af.jpg</picture>
                 <name>Жежера Андрей Владимирович</name>
-                <description/>
                 <param name="Фамилия">Жежера</param>
                 <param name="Имя">Андрей</param>
                 <param name="Отчество">Владимирович</param>
@@ -418,10 +408,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>4,31,646,645,25</set_ids>
+                <set_ids>31,646,645,4,25</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
-                <description/>
                 <param name="Фамилия">Захаренко</param>
                 <param name="Имя">Дмитрий</param>
                 <param name="Отчество">Иванович</param>
@@ -447,7 +436,6 @@
                 <set_ids>51</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/44689af925a7849f79161a206d77c9c3.jpg</picture>
                 <name>Кадырбеков Руслан Набибуллаевич</name>
-                <description/>
                 <param name="Фамилия">Кадырбеков</param>
                 <param name="Имя">Руслан</param>
                 <param name="Отчество">Набибуллаевич</param>
@@ -474,7 +462,6 @@
                 <set_ids>782</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b5c46d137de051de17e255c5ad409e71.jpg</picture>
                 <name>Калягина Галина Владимировна</name>
-                <description/>
                 <param name="Фамилия">Калягина</param>
                 <param name="Имя">Галина</param>
                 <param name="Отчество">Владимировна</param>
@@ -498,10 +485,9 @@
                 <price>700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>508,510</set_ids>
+                <set_ids>510,508</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/93ef8c728c0cf448b9b5d83c4889350f.jpg</picture>
                 <name>Комлева Лариса Леонидовна</name>
-                <description/>
                 <param name="Фамилия">Комлева</param>
                 <param name="Имя">Лариса</param>
                 <param name="Отчество">Леонидовна</param>
@@ -529,7 +515,6 @@
                 <set_ids>58</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/605a6a54699f5a4a269b1cb28c8c73cf.jpg</picture>
                 <name>Коротаев Сергей Геннадьевич</name>
-                <description/>
                 <param name="Фамилия">Коротаев</param>
                 <param name="Имя">Сергей</param>
                 <param name="Отчество">Геннадьевич</param>
@@ -556,7 +541,6 @@
                 <set_ids>512</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f94d731ea290713658c80549bc562e11.jpg</picture>
                 <name>Лавникович Татьяна Васильевна</name>
-                <description/>
                 <param name="Фамилия">Лавникович</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Васильевна</param>
@@ -583,7 +567,6 @@
                 <set_ids>43</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/2ce53b5f2e109ee2952011b879cc822b.jpg</picture>
                 <name>Лончакова Оксана Михайловна </name>
-                <description/>
                 <param name="Фамилия">Лончакова</param>
                 <param name="Имя">Оксана</param>
                 <param name="Отчество">Михайловна</param>
@@ -610,7 +593,6 @@
                 <set_ids>23</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/17d8524ecefcb9fd1457baa9e726ac7b.jpg</picture>
                 <name>Мокеева Юлия Рудольфовна</name>
-                <description/>
                 <param name="Фамилия">Мокеева</param>
                 <param name="Имя">Юлия</param>
                 <param name="Отчество">Рудольфовна</param>
@@ -637,7 +619,6 @@
                 <set_ids>509</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/02ab56909e882cebc063fffc3386a7d5.jpg</picture>
                 <name>Нагорнова Эмилия Юрьевна</name>
-                <description/>
                 <param name="Фамилия">Нагорнова</param>
                 <param name="Имя">Эмилия</param>
                 <param name="Отчество">Юрьевна</param>
@@ -665,7 +646,6 @@
                 <set_ids>48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/616e89a1ce6e9344d333033827506ecf.jpg</picture>
                 <name>Петерсен Ольга Сергеевна</name>
-                <description/>
                 <param name="Фамилия">Петерсен</param>
                 <param name="Имя">Ольга</param>
                 <param name="Отчество">Сергеевна</param>
@@ -692,7 +672,6 @@
                 <set_ids>59</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/caa85e0778c6e69a56a6e582abd49f7a.jpg</picture>
                 <name>Пилюгина Ирина Евгеньевна</name>
-                <description/>
                 <param name="Фамилия">Пилюгина</param>
                 <param name="Имя">Ирина</param>
                 <param name="Отчество">Евгеньевна</param>
@@ -717,10 +696,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>890,891</set_ids>
+                <set_ids>891,890</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d9d7fbda09b300695271c7da5ccf74ed.jpg</picture>
                 <name>Пицына Марина Владимировна</name>
-                <description/>
                 <param name="Фамилия">Пицына</param>
                 <param name="Имя">Марина</param>
                 <param name="Отчество">Владимировна</param>
@@ -744,10 +722,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>15,48,57</set_ids>
+                <set_ids>15,57,48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/a07db3668602741621499387d2897ef6.jpg</picture>
                 <name>Сипилина Татьяна Алексеевна</name>
-                <description/>
                 <param name="Фамилия">Сипилина</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Алексеевна</param>
@@ -774,7 +751,6 @@
                 <set_ids>58,27</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/8bbb5878ba0d5fa09bd10567e4ec9579.jpg</picture>
                 <name>Смирнов Сергей Альбертович</name>
-                <description/>
                 <param name="Фамилия">Смирнов</param>
                 <param name="Имя">Сергей</param>
                 <param name="Отчество">Альбертович</param>
@@ -798,10 +774,9 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>645,31</set_ids>
+                <set_ids>31,645</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/85d1de4458df0b1ff468c630fab4a22d.jpg</picture>
                 <name>Соловьева Татьяна Васильевна</name>
-                <description/>
                 <param name="Фамилия">Соловьева</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Васильевна</param>
@@ -829,7 +804,6 @@
                 <set_ids>15</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f0f3c7c0e225c525379abe8fd39185a8.jpg</picture>
                 <name>Трифонова Татьяна Николаевна</name>
-                <description/>
                 <param name="Фамилия">Трифонова</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Николаевна</param>
@@ -854,10 +828,9 @@
                 <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>1022,1023</set_ids>
+                <set_ids>1023,1022</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b47e16c2ee0d12cc9a9a0dc3132e7452.jpg</picture>
                 <name>Шабарова Ирина Валерьевна</name>
-                <description/>
                 <param name="Фамилия">Шабарова</param>
                 <param name="Имя">Ирина</param>
                 <param name="Отчество">Валерьевна</param>

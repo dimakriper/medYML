@@ -70,8 +70,8 @@ def create_yml(header, body):
                 picture.text = item.avatar
                 name = ET.SubElement(offer, 'name')
                 name.text = item.full_name
-                description = ET.SubElement(offer, 'description')
-                description.text = item.description
+                # description = ET.SubElement(offer, 'description')
+                # description.text = item.description
                 params = item.get_params()
 
                 for key in params.keys():
