@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-11-11 14:35">
+<yml_catalog date="2023-11-27 22:00">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -14,16 +14,12 @@
                 <name>специалист по аппаратной косметологии</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=891</url>
             </set>
-            <set id="453">
-                <name>терапевт</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=453</url>
-            </set>
             <set id="4">
                 <name>гастроэнтеролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=4</url>
             </set>
             <set id="646">
-                <name>гастроэнтеролог</name>
+                <name>детский гастроэнтеролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=646</url>
             </set>
             <set id="1022">
@@ -50,10 +46,6 @@
                 <name>кардиолог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=15</url>
             </set>
-            <set id="454">
-                <name>медицинская сестра</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=454</url>
-            </set>
             <set id="890">
                 <name>врач по спортивной медицине</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=890</url>
@@ -70,12 +62,12 @@
                 <name>нефролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=25</url>
             </set>
-            <set id="27">
-                <name>онколог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=27</url>
+            <set id="1544">
+                <name>Ортопед</name>
+                <url>https://mcmedikor.ru/zapis-na-vizit?profession=1544</url>
             </set>
             <set id="512">
-                <name>оториноларинголог</name>
+                <name>отоларинголог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=512</url>
             </set>
             <set id="31">
@@ -106,12 +98,12 @@
                 <name>терапевт</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=48</url>
             </set>
-            <set id="51">
-                <name>травматолог-ортопед</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=51</url>
+            <set id="1543">
+                <name>Травматолог</name>
+                <url>https://mcmedikor.ru/zapis-na-vizit?profession=1543</url>
             </set>
             <set id="508">
-                <name>врач ультразвуковой диагностики</name>
+                <name>узи-специалист</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=508</url>
             </set>
             <set id="717">
@@ -221,7 +213,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>58,51</set_ids>
+                <set_ids>1544,58,1543</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/89966a0d7dc4d74f5e3ea588d225f0eb.jpg</picture>
                 <name>Батталова Наиля Валижановна</name>
                 <param name="Фамилия">Батталова</param>
@@ -381,7 +373,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>23,22</set_ids>
+                <set_ids>22,23</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/761c492bf37ac86a3d178898d699e4af.jpg</picture>
                 <name>Жежера Андрей Владимирович</name>
                 <param name="Фамилия">Жежера</param>
@@ -405,10 +397,10 @@
             </offer>
             <offer id="8330">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8330</url>
-                <price>1200</price>
+                <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>31,646,645,4,25</set_ids>
+                <set_ids>646,25,4,31,645</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
                 <param name="Фамилия">Захаренко</param>
@@ -433,7 +425,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>51</set_ids>
+                <set_ids>1543</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/44689af925a7849f79161a206d77c9c3.jpg</picture>
                 <name>Кадырбеков Руслан Набибуллаевич</name>
                 <param name="Фамилия">Кадырбеков</param>
@@ -616,7 +608,7 @@
                 <price>300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>509</set_ids>
+                <set_ids>509,511</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/02ab56909e882cebc063fffc3386a7d5.jpg</picture>
                 <name>Нагорнова Эмилия Юрьевна</name>
                 <param name="Фамилия">Нагорнова</param>
@@ -693,10 +685,10 @@
             </offer>
             <offer id="11806">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=11806</url>
-                <price>1200</price>
+                <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>891,890</set_ids>
+                <set_ids>890,891</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d9d7fbda09b300695271c7da5ccf74ed.jpg</picture>
                 <name>Пицына Марина Владимировна</name>
                 <param name="Фамилия">Пицына</param>
@@ -722,7 +714,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>15,57,48</set_ids>
+                <set_ids>48,15,57</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/a07db3668602741621499387d2897ef6.jpg</picture>
                 <name>Сипилина Татьяна Алексеевна</name>
                 <param name="Фамилия">Сипилина</param>
@@ -748,7 +740,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>58,27</set_ids>
+                <set_ids>58</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/8bbb5878ba0d5fa09bd10567e4ec9579.jpg</picture>
                 <name>Смирнов Сергей Альбертович</name>
                 <param name="Фамилия">Смирнов</param>
@@ -828,7 +820,7 @@
                 <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>1023,1022</set_ids>
+                <set_ids>1022,1023</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b47e16c2ee0d12cc9a9a0dc3132e7452.jpg</picture>
                 <name>Шабарова Ирина Валерьевна</name>
                 <param name="Фамилия">Шабарова</param>

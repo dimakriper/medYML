@@ -25,9 +25,24 @@ class Shop:
                           {'api_key': api_key})
         c_data = c.json()["data"]
         for item in c_data:
-            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764:
+            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454:
+                if item["id"] == 512:
+                    name = 'отоларинголог'
+                elif item["id"] == 508:
+                    name = 'узи-специалист'
+                elif item["id"] == 646:
+                    name = 'детский гастроэнтеролог'
+                elif item["id"] == 508:
+                    name = 'узи-специалист'
+                elif item["id"] == 782:
+                    name = 'детский невролог'
+                elif item["id"] == 645:
+                    name = 'детский нефролог'
+                else:
+                    name = remove_pattern(item["doctor_name"], r'[Вв]рач-') if item["doctor_name"] else item["name"]
+                    print(name, item["name"], item["doctor_name"], item["id"])
                 self.sets.append({
-                    'name': remove_pattern(item["doctor_name"], r'[Вв]рач-') if item["doctor_name"] else item["name"],
+                    'name': name,
                     'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',
                     'id': str(item["id"])
                 })
