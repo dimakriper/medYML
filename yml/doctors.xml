@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-11-29 05:27">
+<yml_catalog date="2023-11-29 05:31">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -11,27 +11,27 @@
         <categories>
             <category id="1">Врач</category>
             <set id="891">
-                <name>специалист по аппаратной косметологии</name>
+                <name>Специалист по аппаратной косметологии</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=891</url>
             </set>
             <set id="4">
-                <name>гастроэнтеролог</name>
+                <name>Гастроэнтеролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=4</url>
             </set>
             <set id="1023">
-                <name>ревматолог</name>
+                <name>Ревматолог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=1023</url>
             </set>
             <set id="509">
-                <name>врач функциональной диагностики</name>
+                <name>Врач функциональной диагностики</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=509</url>
             </set>
             <set id="15">
-                <name>кардиолог</name>
+                <name>Кардиолог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=15</url>
             </set>
             <set id="890">
-                <name>врач по спортивной медицине</name>
+                <name>Врач по спортивной медицине</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=890</url>
             </set>
             <set id="22">
@@ -39,11 +39,11 @@
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=22</url>
             </set>
             <set id="23">
-                <name>невролог</name>
+                <name>Невролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=23</url>
             </set>
             <set id="25">
-                <name>нефролог</name>
+                <name>Нефролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=25</url>
             </set>
             <set id="1544">
@@ -51,35 +51,35 @@
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=1544</url>
             </set>
             <set id="512">
-                <name>отоларинголог</name>
+                <name>Отоларинголог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=512</url>
             </set>
             <set id="31">
-                <name>педиатр</name>
+                <name>Педиатр</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=31</url>
             </set>
             <set id="35">
-                <name>психиатр</name>
+                <name>Психиатр</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=35</url>
             </set>
             <set id="510">
-                <name>рентгенолог</name>
+                <name>Рентгенолог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=510</url>
             </set>
             <set id="43">
-                <name>сердечно-сосудистый хирург</name>
+                <name>Сердечно-сосудистый хирург</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=43</url>
             </set>
             <set id="450">
-                <name>медицинская сестра</name>
+                <name>Медицинская сестра</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=450</url>
             </set>
             <set id="455">
-                <name>врач скорой медицинской помощи</name>
+                <name>Врач скорой медицинской помощи</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=455</url>
             </set>
             <set id="48">
-                <name>терапевт</name>
+                <name>Терапевт</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=48</url>
             </set>
             <set id="1543">
@@ -87,19 +87,19 @@
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=1543</url>
             </set>
             <set id="508">
-                <name>узи-специалист</name>
+                <name>Узи-специалист</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=508</url>
             </set>
             <set id="717">
-                <name>врач ультразвуковой диагностики</name>
+                <name>Врач ультразвуковой диагностики</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=717</url>
             </set>
             <set id="58">
-                <name>хирург</name>
+                <name>Хирург</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=58</url>
             </set>
             <set id="59">
-                <name>эндокринолог</name>
+                <name>Эндокринолог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=59</url>
             </set>
         </categories>

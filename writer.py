@@ -44,7 +44,7 @@ def create_yml(header, body):
         set = ET.SubElement(categories, 'set')
         set.set('id', item['id'])
         name = ET.SubElement(set, 'name')
-        name.text = item['name']
+        name.text = item['name'].capitalize()
         url = ET.SubElement(set, 'url')
         url.text = item['url']
     # create body
