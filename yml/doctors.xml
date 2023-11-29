@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-11-27 22:28">
+<yml_catalog date="2023-11-29 05:27">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -17,22 +17,6 @@
             <set id="4">
                 <name>гастроэнтеролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=4</url>
-            </set>
-            <set id="646">
-                <name>детский гастроэнтеролог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=646</url>
-            </set>
-            <set id="1022">
-                <name>детский кардиолог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=1022</url>
-            </set>
-            <set id="782">
-                <name>детский невролог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=782</url>
-            </set>
-            <set id="645">
-                <name>детский нефролог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=645</url>
             </set>
             <set id="1023">
                 <name>ревматолог</name>
@@ -110,17 +94,9 @@
                 <name>врач ультразвуковой диагностики</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=717</url>
             </set>
-            <set id="57">
-                <name>Врач функциональной диагностики</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=57</url>
-            </set>
             <set id="58">
                 <name>хирург</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=58</url>
-            </set>
-            <set id="511">
-                <name>врач функциональной диагностики</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=511</url>
             </set>
             <set id="59">
                 <name>эндокринолог</name>
@@ -213,7 +189,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>1544,58,1543</set_ids>
+                <set_ids>1544,1543,58</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/89966a0d7dc4d74f5e3ea588d225f0eb.jpg</picture>
                 <name>Батталова Наиля Валижановна</name>
                 <param name="Фамилия">Батталова</param>
@@ -266,7 +242,7 @@
                 <price>700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>717,508</set_ids>
+                <set_ids>508,717</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/1fe80ce27bcd4aa2afcc03fc907bf94c.jpg</picture>
                 <name>Виноградова Анна Александровна</name>
                 <param name="Фамилия">Виноградова</param>
@@ -400,7 +376,7 @@
                 <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>646,25,4,31,645</set_ids>
+                <set_ids>4,25,31</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
                 <param name="Фамилия">Захаренко</param>
@@ -443,32 +419,6 @@
                 <param name="внутренний идентификатор врача">16962</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="14360">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=14360</url>
-                <price>1500</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids>782</set_ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b5c46d137de051de17e255c5ad409e71.jpg</picture>
-                <name>Калягина Галина Владимировна</name>
-                <param name="Фамилия">Калягина</param>
-                <param name="Имя">Галина</param>
-                <param name="Отчество">Владимировна</param>
-                <param name="Годы опыта">7</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">false</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (915) 982-81-14</param>
-                <param name="внутренний идентификатор врача">14360</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
@@ -608,7 +558,7 @@
                 <price>300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>509,511</set_ids>
+                <set_ids>509</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/02ab56909e882cebc063fffc3386a7d5.jpg</picture>
                 <name>Нагорнова Эмилия Юрьевна</name>
                 <param name="Фамилия">Нагорнова</param>
@@ -688,7 +638,7 @@
                 <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>890,891</set_ids>
+                <set_ids>891,890</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d9d7fbda09b300695271c7da5ccf74ed.jpg</picture>
                 <name>Пицына Марина Владимировна</name>
                 <param name="Фамилия">Пицына</param>
@@ -714,7 +664,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>48,15,57</set_ids>
+                <set_ids>15,48</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/a07db3668602741621499387d2897ef6.jpg</picture>
                 <name>Сипилина Татьяна Алексеевна</name>
                 <param name="Фамилия">Сипилина</param>
@@ -766,7 +716,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>31,645</set_ids>
+                <set_ids>31</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/85d1de4458df0b1ff468c630fab4a22d.jpg</picture>
                 <name>Соловьева Татьяна Васильевна</name>
                 <param name="Фамилия">Соловьева</param>
@@ -820,7 +770,7 @@
                 <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>1022,1023</set_ids>
+                <set_ids>1023</set_ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b47e16c2ee0d12cc9a9a0dc3132e7452.jpg</picture>
                 <name>Шабарова Ирина Валерьевна</name>
                 <param name="Фамилия">Шабарова</param>

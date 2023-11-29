@@ -51,7 +51,8 @@ def create_yml(header, body):
     offers = ET.SubElement(shop, 'offers')
 
     for item in body:
-        if item.experience_years :
+        profession = [d["id"] for d in header.sets if d["id"] in item.profession]
+        if item.experience_years and len(profession) > 0:
             try:
                 offer = ET.SubElement(offers, 'offer')
                 offer.set('id', item.id)
@@ -65,7 +66,9 @@ def create_yml(header, body):
                 categoryId = ET.SubElement(offer, 'categoryId')
                 categoryId.text = item.categoryId
                 set_ids = ET.SubElement(offer, 'set_ids')
-                set_ids.text = ",".join(item.profession)
+
+                print(profession, item.profession)
+                set_ids.text = ",".join(profession)
                 picture = ET.SubElement(offer, 'picture')
                 picture.text = item.avatar
                 name = ET.SubElement(offer, 'name')

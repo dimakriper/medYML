@@ -25,7 +25,7 @@ class Shop:
                           {'api_key': api_key})
         c_data = c.json()["data"]
         for item in c_data:
-            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454:
+            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511:
                 if item["id"] == 512:
                     name = 'отоларинголог'
                 elif item["id"] == 508:
@@ -41,11 +41,12 @@ class Shop:
                 else:
                     name = remove_pattern(item["doctor_name"], r'[Вв]рач-') if item["doctor_name"] else item["name"]
                     print(name, item["name"], item["doctor_name"], item["id"])
-                self.sets.append({
-                    'name': name,
-                    'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',
-                    'id': str(item["id"])
-                })
+                if not name.startswith('детский'):
+                    self.sets.append({
+                        'name': name,
+                        'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',
+                        'id': str(item["id"])
+                    })
 
 class Offer:
     def __init__(self):
