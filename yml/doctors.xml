@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-11-29 05:31">
+<yml_catalog date="2023-11-30 21:53">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -69,14 +69,6 @@
             <set id="43">
                 <name>Сердечно-сосудистый хирург</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=43</url>
-            </set>
-            <set id="450">
-                <name>Медицинская сестра</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=450</url>
-            </set>
-            <set id="455">
-                <name>Врач скорой медицинской помощи</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=455</url>
             </set>
             <set id="48">
                 <name>Терапевт</name>
@@ -373,7 +365,7 @@
             </offer>
             <offer id="8330">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8330</url>
-                <price>350</price>
+                <price>700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set_ids>4,25,31</set_ids>

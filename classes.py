@@ -25,7 +25,7 @@ class Shop:
                           {'api_key': api_key})
         c_data = c.json()["data"]
         for item in c_data:
-            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511:
+            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511 and item["id"] != 450 and item["id"] != 455:
                 if item["id"] == 512:
                     name = 'отоларинголог'
                 elif item["id"] == 508:
