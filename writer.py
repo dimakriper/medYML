@@ -41,7 +41,7 @@ def create_yml(header, body):
         category.text = cat['content']
     sets = ET.SubElement(shop, 'sets')
     for item in header.sets:
-        set = ET.SubElement(categories, 'set')
+        set = ET.SubElement(sets, 'set')
         set.set('id', item['id'])
         name = ET.SubElement(set, 'name')
         name.text = item['name'].capitalize()
