@@ -7121,3 +7121,120 @@ ValueError: not enough values to unpack (expected 3, got 1)
 2023-12-09 07:01:59,913:INFO - END
 
 
+2023-12-13 11:27:54,265:INFO - START
+2023-12-13 11:27:54,271:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:54,421:DEBUG - https://app.rnova.org:443 "POST /api/public/getProfessions HTTP/1.1" 200 None
+2023-12-13 11:27:54,425:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:54,661:DEBUG - https://app.rnova.org:443 "POST /api/public/getUsers HTTP/1.1" 200 None
+2023-12-13 11:27:54,664:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:54,783:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:54,785:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:54,920:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:54,924:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:54,993:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:54,995:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,103:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,107:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,205:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,207:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,317:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,320:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,420:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,422:CRITICAL - 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\medYML\reader.py", line 21, in get_data
+    doctor.set_content(item)
+  File "C:\medYML\classes.py", line 126, in set_content
+    self.experience_years = data["work_period"].split()[0]
+AttributeError: 'NoneType' object has no attribute 'split'
+2023-12-13 11:27:55,424:ERROR - following item is skipped {'id': 5212, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/cbbf5648c45474233a1e585ac093e7a4.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/cbbf5648c45474233a1e585ac093e7a4_small.jpg', 'name': 'Гилаваров Роман Гилаварович', 'birth_date': None, 'gender': 1, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [{'type': 'mobile', 'type_title': 'М. телефон', 'value': '+7 (920) 116-59-63', 'comment': '', 'is_main': False}], 'profession': ['1543'], 'profession_titles': 'Травматология', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'ЦЕНТР "МЕДИКОР"', 'avg_time': 20, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '5 ТРАВМ ХИРУРГ', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2023-12-13 11:27:55,425:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,539:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,542:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,628:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,630:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,714:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,717:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,811:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,814:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:55,929:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:55,934:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,032:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,035:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,123:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,127:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,227:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,231:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,315:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,318:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,423:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,425:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,538:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,540:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,623:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,626:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,705:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,708:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,812:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,816:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:56,924:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:56,927:CRITICAL - not enough values to unpack (expected 3, got 2)
+Traceback (most recent call last):
+  File "C:\medYML\reader.py", line 21, in get_data
+    doctor.set_content(item)
+  File "C:\medYML\classes.py", line 117, in set_content
+    self.surname, self.name, self.midname = data["name"].split()
+ValueError: not enough values to unpack (expected 3, got 2)
+2023-12-13 11:27:56,927:ERROR - following item is skipped {'id': 4821, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/9ad710270c8b37f0b3e409950cbaee45.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/9ad710270c8b37f0b3e409950cbaee45_small.jpg', 'name': 'ПРОЦЕДУРНЫЙ КАБИНЕТ', 'birth_date': None, 'gender': None, 'role': ['1914', '1915'], 'role_titles': 'Администратор, Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [], 'profession': ['511', '454', '453', '450', '1026'], 'profession_titles': 'Вакцинация, Лаборатория (анализы), программа АНТИКЛЕЩ , Сестринское дело (процедуры, забор анализов), ЭКГ, монитор ЭКГ(холтер)', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'ЦЕНТР "МЕДИКОР"', 'avg_time': 15, 'has_company': True, 'avg_time_company': 15, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '4 ПРОЦЕДУРНЫЙ', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': True, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2023-12-13 11:27:56,927:CRITICAL - not enough values to unpack (expected 3, got 1)
+Traceback (most recent call last):
+  File "C:\medYML\reader.py", line 21, in get_data
+    doctor.set_content(item)
+  File "C:\medYML\classes.py", line 117, in set_content
+    self.surname, self.name, self.midname = data["name"].split()
+ValueError: not enough values to unpack (expected 3, got 1)
+2023-12-13 11:27:56,928:ERROR - following item is skipped {'id': 5833, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33_small.jpg', 'name': 'РЕНТГЕН', 'birth_date': None, 'gender': None, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [], 'profession': ['510'], 'profession_titles': 'РЕНТГЕН', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'ЦЕНТР "МЕДИКОР"', 'avg_time': 15, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '2 РЕНТГЕН', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2023-12-13 11:27:56,929:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:57,077:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:57,080:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:57,193:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:57,196:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:57,445:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:57,448:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:57,621:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:57,624:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2023-12-13 11:27:57,710:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2023-12-13 11:27:57,713:ERROR - Категория raised in error. param skippet in item 4723
+2023-12-13 11:27:57,713:ERROR - Категория raised in error. param skippet in item 5401
+2023-12-13 11:27:57,713:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,713:ERROR - Категория raised in error. param skippet in item 7467
+2023-12-13 11:27:57,713:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,713:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,713:ERROR - Категория raised in error. param skippet in item 9382
+2023-12-13 11:27:57,714:ERROR - Категория raised in error. param skippet in item 8330
+2023-12-13 11:27:57,714:ERROR - Категория raised in error. param skippet in item 16962
+2023-12-13 11:27:57,714:ERROR - item 14360 has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - Категория raised in error. param skippet in item 4782
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - Категория raised in error. param skippet in item 4793
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - Категория raised in error. param skippet in item 4799
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,714:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,715:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,715:ERROR - Категория raised in error. param skippet in item 4781
+2023-12-13 11:27:57,715:ERROR - Категория raised in error. param skippet in item 11806
+2023-12-13 11:27:57,715:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,715:ERROR - Категория raised in error. param skippet in item 8088
+2023-12-13 11:27:57,715:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,715:ERROR - Категория raised in error. param skippet in item 4822
+2023-12-13 11:27:57,715:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,715:ERROR - item  has lack of data provided. item is skipped
+2023-12-13 11:27:57,734:INFO - END
+
+
