@@ -20,12 +20,15 @@ class Shop:
         self.categories = [{'id' : "1", 'content' : "Врач"}]
         self.sets = []
 
-    def get_content(self):
+    def get_content(self, keep_list):
         c = requests.post('https://app.rnova.org/api/public/getProfessions',
                           {'api_key': api_key})
         c_data = c.json()["data"]
         for item in c_data:
-            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511 and item["id"] != 450 and item["id"] != 455:
+            allowed = any(str(item['id']) in doctor.profession for doctor in keep_list['items'])
+            print(allowed)
+            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511 and item["id"] != 450 and item["id"] != 455 \
+                    and allowed:
                 if item["id"] == 512:
                     name = 'отоларинголог'
                 elif item["id"] == 508:
