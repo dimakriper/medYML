@@ -12,17 +12,9 @@
             <category id="1">Врач</category>
         </categories>
         <sets>
-            <set id="891">
-                <name>Косметолог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=891</url>
-            </set>
             <set id="4">
                 <name>Гастроэнтеролог</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=4</url>
-            </set>
-            <set id="890">
-                <name>Врач по спортивной медицине</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=890</url>
             </set>
             <set id="23">
                 <name>Невролог</name>
@@ -55,7 +47,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>48</set_ids>
+                <set-ids>48</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/3e48326b51e4fac727eb40ff64cd621d.jpg</picture>
                 <name>Антропова Марина Вениаминовна</name>
                 <param name="Фамилия">Антропова</param>
@@ -81,7 +73,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>23</set_ids>
+                <set-ids>23</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/01f0959a2bb0c220add03c4682b53bbd.jpg</picture>
                 <name>Гурьев Николай Павлович</name>
                 <param name="Фамилия">Гурьев</param>
@@ -108,7 +100,7 @@
                 <price>1000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>4,25,31</set_ids>
+                <set-ids>4,25,31</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
                 <param name="Фамилия">Захаренко</param>
@@ -134,7 +126,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>58</set_ids>
+                <set-ids>58</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/605a6a54699f5a4a269b1cb28c8c73cf.jpg</picture>
                 <name>Коротаев Сергей Геннадьевич</name>
                 <param name="Фамилия">Коротаев</param>
@@ -160,7 +152,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>512</set_ids>
+                <set-ids>512</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f94d731ea290713658c80549bc562e11.jpg</picture>
                 <name>Лавникович Татьяна Васильевна</name>
                 <param name="Фамилия">Лавникович</param>
@@ -186,7 +178,7 @@
                 <price>1200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set_ids>48</set_ids>
+                <set-ids>48</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/616e89a1ce6e9344d333033827506ecf.jpg</picture>
                 <name>Петерсен Ольга Сергеевна</name>
                 <param name="Фамилия">Петерсен</param>
@@ -204,32 +196,6 @@
                 <param name="внутренний идентификатор врача">4781</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="11806">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=11806</url>
-                <price>350</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set_ids>891,890</set_ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d9d7fbda09b300695271c7da5ccf74ed.jpg</picture>
-                <name>Пицына Марина Владимировна</name>
-                <param name="Фамилия">Пицына</param>
-                <param name="Имя">Марина</param>
-                <param name="Отчество">Владимировна</param>
-                <param name="Годы опыта">25</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">11806</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
