@@ -65,7 +65,7 @@ def create_yml(header, body):
                 currencyId.text = item.currencyId
                 categoryId = ET.SubElement(offer, 'categoryId')
                 categoryId.text = item.categoryId
-                set_ids = ET.SubElement(offer, 'set_ids')
+                set_ids = ET.SubElement(offer, 'set-ids')
 
                 print(profession, item.profession)
                 set_ids.text = ",".join(profession)

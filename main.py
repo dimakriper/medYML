@@ -4,7 +4,7 @@ from writer import create_yml
 
 logger.info('START')
 try:
-    header, body, keep_list = get_data()
+    header, body = get_data()
 except Exception as e:
     logger.critical(e, exc_info=True)
     logger.error('reader module raised an error')

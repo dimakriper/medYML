@@ -1,6 +1,6 @@
 import re
 import requests
-from manage import api_key
+import manage
 
 def remove_pattern(input_string, pattern):
     # Используйте re.sub для замены совпадений шаблона пустой строкой
@@ -20,36 +20,15 @@ class Shop:
         self.categories = [{'id' : "1", 'content' : "Врач"}]
         self.sets = []
 
-    def get_content(self, keep_list):
-        c = requests.post('https://app.rnova.org/api/public/getProfessions',
-                          {'api_key': api_key})
-        c_data = c.json()["data"]
-        for item in c_data:
-            allowed = any(str(item['id']) in doctor.profession for doctor in keep_list['items'])
-            print(allowed)
-            if item["doctor_name"] and item["id"] != 451 and item["id"] != 764 and item["id"] != 453 and item["id"] != 454 and item["id"] != 511 and item["id"] != 450 and item["id"] != 455 \
-                    and allowed:
-                if item["id"] == 512:
-                    name = 'отоларинголог'
-                elif item["id"] == 508:
-                    name = 'узи-специалист'
-                elif item["id"] == 646:
-                    name = 'детский гастроэнтеролог'
-                elif item["id"] == 508:
-                    name = 'узи-специалист'
-                elif item["id"] == 782:
-                    name = 'детский невролог'
-                elif item["id"] == 645:
-                    name = 'детский нефролог'
-                else:
-                    name = remove_pattern(item["doctor_name"], r'[Вв]рач-') if item["doctor_name"] else item["name"]
-                    print(name, item["name"], item["doctor_name"], item["id"])
-                if not name.startswith('детский'):
-                    self.sets.append({
-                        'name': name,
-                        'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={item["id"]}',
-                        'id': str(item["id"])
-                    })
+    def get_content(self):
+        professions = manage.get_included_professions()
+        prof_ids = professions.keys()
+        for id in prof_ids:
+            self.sets.append({
+                'name': professions[id],
+                'url': f'https://mcmedikor.ru/zapis-na-vizit?profession={id}',
+                'id': str(id)
+            })
 
 class Offer:
     def __init__(self):
@@ -141,7 +120,7 @@ class Offer:
     def set_price(self):
         if self.id:
             p = requests.post('https://app.rnova.org/api/public/getServices',
-                              {'api_key': api_key, 'user_id': self.id})
+                              {'api_key': manage.api_key, 'user_id': self.id})
             p_data = p.json()["data"]
             for item in p_data:
                 if item["title"].find('Доплата') == -1:

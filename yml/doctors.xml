@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2023-12-15 17:48">
+<yml_catalog date="2024-03-06 16:32">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -42,9 +42,36 @@
             </set>
         </sets>
         <offers>
+            <offer id="4796">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4796</url>
+                <price>1500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>23</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/eab131cb782b83e350aba2a22458e983.jpg</picture>
+                <name>Абросимов Альберт Викторович</name>
+                <param name="Фамилия">Абросимов</param>
+                <param name="Имя">Альберт</param>
+                <param name="Отчество">Викторович</param>
+                <param name="Годы опыта">34</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4796</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
             <offer id="4723">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4723</url>
-                <price>1200</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>48</set-ids>
@@ -68,9 +95,62 @@
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
+            <offer id="4783">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>58</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/89966a0d7dc4d74f5e3ea588d225f0eb.jpg</picture>
+                <name>Батталова Наиля Валижановна</name>
+                <param name="Фамилия">Батталова</param>
+                <param name="Имя">Наиля</param>
+                <param name="Отчество">Валижановна</param>
+                <param name="Годы опыта">36</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">true</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4783</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">true</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="7467">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=7467</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>4,48</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/1f656cf8931610e576c8a14c1ff1b2a8.jpg</picture>
+                <name>Бовина Наталья Витальевна</name>
+                <param name="Фамилия">Бовина</param>
+                <param name="Имя">Наталья</param>
+                <param name="Отчество">Витальевна</param>
+                <param name="Годы опыта">21</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">7467</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">true</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
             <offer id="4800">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4800</url>
-                <price>1200</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>23</set-ids>
@@ -91,6 +171,33 @@
                 <param name="внутренний идентификатор врача">4800</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="4797">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4797</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>23</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/761c492bf37ac86a3d178898d699e4af.jpg</picture>
+                <name>Жежера Андрей Владимирович</name>
+                <param name="Фамилия">Жежера</param>
+                <param name="Имя">Андрей</param>
+                <param name="Отчество">Владимирович</param>
+                <param name="Годы опыта">30</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4797</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Категория">Высшая</param>
                 <param name="Онлайн-расписание">true</param>
@@ -123,7 +230,7 @@
             </offer>
             <offer id="4782">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4782</url>
-                <price>1200</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>58</set-ids>
@@ -149,7 +256,7 @@
             </offer>
             <offer id="4793">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4793</url>
-                <price>1200</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>512</set-ids>
@@ -173,9 +280,35 @@
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
+            <offer id="4799">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4799</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>23</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/17d8524ecefcb9fd1457baa9e726ac7b.jpg</picture>
+                <name>Мокеева Юлия Рудольфовна</name>
+                <param name="Фамилия">Мокеева</param>
+                <param name="Имя">Юлия</param>
+                <param name="Отчество">Рудольфовна</param>
+                <param name="Годы опыта">26</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4799</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
             <offer id="4781">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4781</url>
-                <price>1200</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>48</set-ids>
@@ -197,6 +330,85 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="8088">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8088</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>48</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/a07db3668602741621499387d2897ef6.jpg</picture>
+                <name>Сипилина Татьяна Алексеевна</name>
+                <param name="Фамилия">Сипилина</param>
+                <param name="Имя">Татьяна</param>
+                <param name="Отчество">Алексеевна</param>
+                <param name="Годы опыта">18</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">8088</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">true</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="4822">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4822</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>58</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/8bbb5878ba0d5fa09bd10567e4ec9579.jpg</picture>
+                <name>Смирнов Сергей Альбертович</name>
+                <param name="Фамилия">Смирнов</param>
+                <param name="Имя">Сергей</param>
+                <param name="Отчество">Альбертович</param>
+                <param name="Годы опыта">32</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4822</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="6110">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=6110</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>31</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/85d1de4458df0b1ff468c630fab4a22d.jpg</picture>
+                <name>Соловьева Татьяна Васильевна</name>
+                <param name="Фамилия">Соловьева</param>
+                <param name="Имя">Татьяна</param>
+                <param name="Отчество">Васильевна</param>
+                <param name="Годы опыта">43</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">false</param>
+                <param name="Детский врач">true</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">6110</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
         </offers>
