@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-03-06 16:52">
+<yml_catalog date="2024-03-15 12:53">
     <shop>
         <name>ЦЕНТР &quot;МЕДИКОР&quot;</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -389,7 +389,7 @@
                 <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>31</set-ids>
+                <set-ids>25,31</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/85d1de4458df0b1ff468c630fab4a22d.jpg</picture>
                 <name>Соловьева Татьяна Васильевна</name>
                 <param name="Фамилия">Соловьева</param>
