@@ -10,7 +10,7 @@ def remove_pattern(input_string, pattern):
 
 class Shop:
     def __init__(self):
-        self.name = 'ЦЕНТР "МЕДИКОР"'
+        self.name = 'МЕДИКОР'
         self.company = 'ООО "МЕДИКОР"'
         self.url = 'https://mcmedikor.ru'
         self.email = 'support-doctors@doctors.sample.s3.yandex.net'
