@@ -12156,3 +12156,17 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^
 ValueError: dictionary update sequence element #26 has length 0; 2 is required
 2024-03-15 15:10:47,576:ERROR - reader module raised an error
+2024-03-15 15:12:34,685:INFO - START
+2024-03-15 15:12:34,686:CRITICAL - dictionary update sequence element #26 has length 0; 2 is required
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\medYML\main.py", line 7, in <module>
+    header, body = get_data()
+                   ^^^^^^^^^^
+  File "C:\Users\MSI\Desktop\medYML\reader.py", line 12, in get_data
+    professions = manage.get_included_professions()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MSI\Desktop\medYML\manage.py", line 24, in get_included_professions
+    return dict(reader)
+           ^^^^^^^^^^^^
+ValueError: dictionary update sequence element #26 has length 0; 2 is required
+2024-03-15 15:12:34,688:ERROR - reader module raised an error
