@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-03-15 15:50">
+<yml_catalog date="2024-03-19 11:17">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -36,9 +36,9 @@
                 <name>Терапевт</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=48</url>
             </set>
-            <set id="58">
-                <name>Эндокринолог</name>
-                <url>https://mcmedikor.ru/zapis-na-vizit?profession=58</url>
+            <set id="57">
+                <name>Хирург</name>
+                <url>https://mcmedikor.ru/zapis-na-vizit?profession=57</url>
             </set>
             <set id="1544">
                 <name>Ортопед</name>
@@ -75,6 +75,10 @@
             <set id="56">
                 <name>Врач функциональной диагностики</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=56</url>
+            </set>
+            <set id="58">
+                <name>Эндокринолог</name>
+                <url>https://mcmedikor.ru/zapis-na-vizit?profession=58</url>
             </set>
             <set id="764">
                 <name>Психолог</name>
@@ -225,7 +229,7 @@
                 <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>58,1544,1543</set-ids>
+                <set-ids>1544,1543,58</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/89966a0d7dc4d74f5e3ea588d225f0eb.jpg</picture>
                 <name>Батталова Наиля Валижановна</name>
                 <param name="Фамилия">Батталова</param>
@@ -331,7 +335,7 @@
                 <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>15</set-ids>
+                <set-ids>57,15</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d3f1445f9e4cd6374ae0b322d325e546.jpg</picture>
                 <name>Голубева Наталья Владимировна</name>
                 <param name="Фамилия">Голубева</param>
@@ -456,32 +460,6 @@
                 <param name="внутренний идентификатор врача">14360</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="4808">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
-                <price>800</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>22,451</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
-                <name>Капранов Александр Николаевич</name>
-                <param name="Фамилия">Капранов</param>
-                <param name="Имя">Александр</param>
-                <param name="Отчество">Николаевич</param>
-                <param name="Годы опыта">27</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">4808</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
@@ -648,7 +626,7 @@
                 <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>511,509</set-ids>
+                <set-ids>57,511,509</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/02ab56909e882cebc063fffc3386a7d5.jpg</picture>
                 <name>Нагорнова Эмилия Юрьевна</name>
                 <param name="Фамилия">Нагорнова</param>
