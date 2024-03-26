@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-03-26 15:23">
+<yml_catalog date="2024-03-26 15:55">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -107,6 +107,10 @@
             <set id="451">
                 <name>Массажист</name>
                 <url>https://mcmedikor.ru/zapis-na-vizit?profession=451</url>
+            </set>
+            <set id="59">
+                <name>Эндокринолог</name>
+                <url>https://mcmedikor.ru/zapis-na-vizit?profession=59</url>
             </set>
         </sets>
         <offers>
@@ -664,6 +668,33 @@
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="4823">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4823</url>
+                <price>1500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>59</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/caa85e0778c6e69a56a6e582abd49f7a.jpg</picture>
+                <name>Пилюгина Ирина Евгеньевна</name>
+                <param name="Фамилия">Пилюгина</param>
+                <param name="Имя">Ирина</param>
+                <param name="Отчество">Евгеньевна</param>
+                <param name="Годы опыта">33</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4823</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Категория">Высшая</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
             <offer id="8088">
