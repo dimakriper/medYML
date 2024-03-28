@@ -13526,3 +13526,147 @@ AttributeError: 'NoneType' object has no attribute 'split'
 2024-03-26 15:55:17,993:INFO - END
 
 
+2024-03-28 12:26:52,733:INFO - START
+2024-03-28 12:26:52,740:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:53,393:DEBUG - https://app.rnova.org:443 "POST /api/public/getUsers HTTP/1.1" 200 None
+2024-03-28 12:26:53,400:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:54,041:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:54,045:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:54,605:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:54,610:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:55,104:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:55,108:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:55,595:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:55,599:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:56,120:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:56,126:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:56,610:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:56,615:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:57,166:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:57,172:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:57,704:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:57,708:CRITICAL - 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\reader.py", line 22, in get_data
+    doctor.set_content(item)
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\classes.py", line 108, in set_content
+    self.experience_years = data["work_period"].split()[0]
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split'
+2024-03-28 12:26:57,712:ERROR - following item is skipped {'id': 24029, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f2ac3d60e3922bfa5dbba90b424aafd9.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f2ac3d60e3922bfa5dbba90b424aafd9_small.jpg', 'name': 'Глинченкова Екатерина Сергеевна', 'birth_date': None, 'gender': 2, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [{'type': 'mobile', 'type_title': 'М. телефон', 'value': '+7 (962) 960-75-20', 'comment': '', 'is_main': False}], 'profession': ['1543'], 'profession_titles': 'Травматология', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'МЕДИКОР', 'avg_time': 30, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': 30, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '', 'is_child_doctor': False, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2024-03-28 12:26:57,716:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:58,344:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:58,349:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:58,895:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:58,899:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:59,427:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:59,431:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:26:59,928:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:26:59,930:CRITICAL - 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\reader.py", line 22, in get_data
+    doctor.set_content(item)
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\classes.py", line 108, in set_content
+    self.experience_years = data["work_period"].split()[0]
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split'
+2024-03-28 12:26:59,931:ERROR - following item is skipped {'id': 14120, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/11241d0211b95631577a4988554132fc.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/11241d0211b95631577a4988554132fc_small.jpg', 'name': 'Иванов Александр Юрьевич', 'birth_date': None, 'gender': 1, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [{'type': 'mobile', 'type_title': 'М. телефон', 'value': '+7 (915) 970-86-07', 'comment': '', 'is_main': False}], 'profession': ['451'], 'profession_titles': 'Массаж', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'МЕДИКОР', 'avg_time': 45, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '6 МАССАЖ', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2024-03-28 12:26:59,935:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:00,495:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:00,498:CRITICAL - 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\reader.py", line 22, in get_data
+    doctor.set_content(item)
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\classes.py", line 108, in set_content
+    self.experience_years = data["work_period"].split()[0]
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split'
+2024-03-28 12:27:00,499:ERROR - following item is skipped {'id': 20278, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/21a07de58925dfc301954f2ee3eed287.png', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/21a07de58925dfc301954f2ee3eed287_small.png', 'name': 'Капранова Вероника Викторовна', 'birth_date': None, 'gender': 2, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [{'type': 'mobile', 'type_title': 'М. телефон', 'value': '+7 (905) 130-98-18', 'comment': '', 'is_main': False}], 'profession': ['764'], 'profession_titles': 'Медицинская психология', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'МЕДИКОР', 'avg_time': 30, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': 'null', 'is_child_doctor': False, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': True, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '<p>Психотерапевт. Взрослый. Стаж 25 лет.</p>\r\n\r\n<p>Специализируется на коррекции и лечении психических расстройств позднего возраста различного генеза, в том числе, деменции. Работает с паническими атаками, депрессивными и другими расстройствами невротического круга, нарушениями сна, расстройствами адаптации, &quot;синдромом хронической усталости&quot; и др.</p>\r\n', 'services': [], 'is_deleted': False}
+2024-03-28 12:27:00,503:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:01,082:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:01,086:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:01,618:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:01,624:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:02,221:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:02,226:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:02,732:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:02,738:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:03,327:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:03,332:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:03,923:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:03,929:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:04,466:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:04,471:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:04,957:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:04,961:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:05,483:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:05,487:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:06,035:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:06,042:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:06,626:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:06,630:CRITICAL - not enough values to unpack (expected 3, got 1)
+Traceback (most recent call last):
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\reader.py", line 22, in get_data
+    doctor.set_content(item)
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\classes.py", line 99, in set_content
+    self.surname, self.name, self.midname = data["name"].split()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 3, got 1)
+2024-03-28 12:27:06,631:ERROR - following item is skipped {'id': 5833, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/f5d1a6bfeef4af5213f2f69decf09d33_small.jpg', 'name': 'РЕНТГЕН', 'birth_date': None, 'gender': None, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [], 'profession': ['510'], 'profession_titles': 'РЕНТГЕН', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'МЕДИКОР', 'avg_time': 15, 'has_company': True, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': '2 РЕНТГЕН', 'is_child_doctor': True, 'is_adult_doctor': True, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2024-03-28 12:27:06,634:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:07,176:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:07,182:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:07,729:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:07,736:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:08,332:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:08,336:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:08,821:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:08,826:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:09,334:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:09,338:DEBUG - Starting new HTTPS connection (1): app.rnova.org:443
+2024-03-28 12:27:09,817:DEBUG - https://app.rnova.org:443 "POST /api/public/getServices HTTP/1.1" 200 None
+2024-03-28 12:27:09,820:CRITICAL - 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\reader.py", line 22, in get_data
+    doctor.set_content(item)
+  File "C:\Users\MSI\YandexDisk\ДИСК МЕДИКОР ЯНДЕКС\ЯНДЕКС\medYML\classes.py", line 108, in set_content
+    self.experience_years = data["work_period"].split()[0]
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split'
+2024-03-28 12:27:09,821:ERROR - following item is skipped {'id': 23644, 'avatar': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/c029c4e700270029762bac09d5eda9e2.jpg', 'avatar_small': 'https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/c029c4e700270029762bac09d5eda9e2_small.jpg', 'name': 'Шиханова Татьяна Вальтовна', 'birth_date': '11.09.1972', 'gender': 2, 'role': ['1914'], 'role_titles': 'Врач', 'document_number': '', 'document_date': None, 'phone': None, 'email': '', 'contacts': [{'type': 'mobile', 'type_title': 'М. телефон', 'value': '+7 (910) 976-41-11', 'comment': '', 'is_main': True}], 'profession': ['451'], 'profession_titles': 'Массаж', 'second_profession': [''], 'second_profession_titles': None, 'clinic': ['550'], 'clinic_titles': 'МЕДИКОР', 'avg_time': 30, 'has_company': False, 'avg_time_company': None, 'avg_time_repeat': None, 'avg_time_repeat_company': None, 'default_clinic': 550, 'default_room': 'null', 'is_child_doctor': False, 'is_adult_doctor': False, 'patient_age_from': None, 'patient_age_to': None, 'is_outside': False, 'is_telemedicine': False, 'date_work_from': None, 'work_period': None, 'work_degree': None, 'work_rank': None, 'work_academy_status': None, 'qualification': None, 'education': '', 'education_courses': '', 'services': [], 'is_deleted': False}
+2024-03-28 12:27:09,826:ERROR - Категория raised in error. param skippet in item 4723
+2024-03-28 12:27:09,827:ERROR - Категория raised in error. param skippet in item 5401
+2024-03-28 12:27:09,829:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,829:ERROR - Категория raised in error. param skippet in item 7467
+2024-03-28 12:27:09,830:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,830:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,831:ERROR - Категория raised in error. param skippet in item 9382
+2024-03-28 12:27:09,834:ERROR - Категория raised in error. param skippet in item 8330
+2024-03-28 12:27:09,835:ERROR - Категория raised in error. param skippet in item 14360
+2024-03-28 12:27:09,836:ERROR - Категория raised in error. param skippet in item 4808
+2024-03-28 12:27:09,837:ERROR - Категория raised in error. param skippet in item 23194
+2024-03-28 12:27:09,838:ERROR - Категория raised in error. param skippet in item 4782
+2024-03-28 12:27:09,838:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,839:ERROR - Категория raised in error. param skippet in item 4793
+2024-03-28 12:27:09,839:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,843:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,844:ERROR - Категория raised in error. param skippet in item 4799
+2024-03-28 12:27:09,845:ERROR - Категория raised in error. param skippet in item 25072
+2024-03-28 12:27:09,845:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,846:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,846:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,846:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,847:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,847:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,848:ERROR - Категория raised in error. param skippet in item 4781
+2024-03-28 12:27:09,849:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,850:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,850:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,852:ERROR - Категория raised in error. param skippet in item 8088
+2024-03-28 12:27:09,852:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,853:ERROR - Категория raised in error. param skippet in item 4822
+2024-03-28 12:27:09,854:ERROR - item  has lack of data provided. item is skipped
+2024-03-28 12:27:09,855:ERROR - Категория raised in error. param skippet in item 9919
+2024-03-28 12:27:09,886:INFO - END
+
+
