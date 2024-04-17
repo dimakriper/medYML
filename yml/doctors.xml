@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-04-17 11:03">
+<yml_catalog date="2024-04-17 15:57">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -789,6 +789,32 @@
                 <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Категория">Высшая</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
+            <offer id="26031">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=26031</url>
+                <price>1500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>1675</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/c22e2eca0ecc0ae75453be323b2dd0bf.jpeg</picture>
+                <name>Симонова Екатерина Алексеевна</name>
+                <param name="Фамилия">Симонова</param>
+                <param name="Имя">Екатерина</param>
+                <param name="Отчество">Алексеевна</param>
+                <param name="Годы опыта">3</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">26031</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
             <offer id="8088">
