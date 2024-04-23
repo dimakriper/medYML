@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-04-17 15:57">
+<yml_catalog date="2024-04-23 11:11">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -147,7 +147,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4796</param>
@@ -174,7 +174,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4723</param>
@@ -200,7 +200,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">5401</param>
@@ -226,7 +226,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">12659</param>
@@ -238,7 +238,7 @@
             </offer>
             <offer id="4783">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
-                <price>1400</price>
+                <price>1000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1544,1543,58</set-ids>
@@ -253,7 +253,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4783</param>
@@ -280,7 +280,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">7467</param>
@@ -306,7 +306,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">9382</param>
@@ -332,7 +332,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">20344</param>
@@ -359,7 +359,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">24029</param>
@@ -385,7 +385,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4802</param>
@@ -412,7 +412,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4800</param>
@@ -439,7 +439,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4797</param>
@@ -466,7 +466,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">8330</param>
@@ -492,7 +492,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">14360</param>
@@ -518,7 +518,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">23194</param>
@@ -544,7 +544,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4831</param>
@@ -571,7 +571,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4782</param>
@@ -597,7 +597,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4793</param>
@@ -623,7 +623,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">12270</param>
@@ -650,7 +650,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">26050</param>
@@ -676,7 +676,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4799</param>
@@ -702,7 +702,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">25072</param>
@@ -728,7 +728,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">5883</param>
@@ -755,7 +755,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4781</param>
@@ -781,7 +781,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4823</param>
@@ -808,7 +808,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">26031</param>
@@ -834,7 +834,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">8088</param>
@@ -860,7 +860,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">4822</param>
@@ -886,7 +886,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">6110</param>
@@ -913,7 +913,7 @@
                 <param name="Детский врач">false</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">9919</param>
@@ -939,7 +939,7 @@
                 <param name="Детский врач">true</param>
                 <param name="Город клиники">г. Ярославль</param>
                 <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">ЦЕНТР &quot;МЕДИКОР&quot;</param>
+                <param name="Название клиники">МЕДИКОР</param>
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">13203</param>

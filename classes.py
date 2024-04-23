@@ -57,7 +57,6 @@ class Offer:
         self.shop_city = 'г. Ярославль'
         self.shop_address = 'г. Ярославль, ул. Республиканская, д. 16, к. А'
         self.offer_address= ''
-        self.shop_name = ''
         self.appointment = 'true'
         self.date_work_from = ''
         self.profession = ''
@@ -69,7 +68,7 @@ class Offer:
         self.avatar = ''
         self.has_company = ''
         self.full_name = ''
-        self.shop_name = 'ЦЕНТР "МЕДИКОР"'
+        self.shop_name = 'МЕДИКОР'
     def get_params(self):
         return {
             "Фамилия" : self.surname ,
