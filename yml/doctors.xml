@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-05-23 11:32">
+<yml_catalog date="2024-05-30 12:46">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -470,32 +470,6 @@
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+7 (4852) 20-85-03</param>
                 <param name="внутренний идентификатор врача">8330</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="14360">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=14360</url>
-                <price>1400</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>782</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b5c46d137de051de17e255c5ad409e71.jpg</picture>
-                <name>Калягина Галина Владимировна</name>
-                <param name="Фамилия">Калягина</param>
-                <param name="Имя">Галина</param>
-                <param name="Отчество">Владимировна</param>
-                <param name="Годы опыта">7</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">false</param>
-                <param name="Детский врач">true</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">МЕДИКОР</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">14360</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
                 <param name="Прием по видеосвязи">false</param>
