@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-06-25 10:05">
+<yml_catalog date="2024-06-26 14:11">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -475,6 +475,32 @@
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
+            <offer id="4808">
+                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
+                <price>1400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <set-ids>22,451</set-ids>
+                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
+                <name>Капранов Александр Николаевич</name>
+                <param name="Фамилия">Капранов</param>
+                <param name="Имя">Александр</param>
+                <param name="Отчество">Николаевич</param>
+                <param name="Годы опыта">28</param>
+                <param name="Город">г. Ярославль</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Город клиники">г. Ярославль</param>
+                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
+                <param name="Название клиники">МЕДИКОР</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
+                <param name="внутренний идентификатор врача">4808</param>
+                <param name="внутренний идентификатор клиники">550</param>
+                <param name="Вызов на дом">false</param>
+                <param name="Прием по видеосвязи">false</param>
+                <param name="Онлайн-расписание">true</param>
+            </offer>
             <offer id="23194">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=23194</url>
                 <price>1500</price>
@@ -565,7 +591,7 @@
                 <param name="Фамилия">Лавникович</param>
                 <param name="Имя">Татьяна</param>
                 <param name="Отчество">Васильевна</param>
-                <param name="Годы опыта">32</param>
+                <param name="Годы опыта">33</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -696,7 +722,7 @@
                 <param name="Фамилия">Нагорнова</param>
                 <param name="Имя">Эмилия</param>
                 <param name="Отчество">Юрьевна</param>
-                <param name="Годы опыта">26</param>
+                <param name="Годы опыта">27</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">false</param>
                 <param name="Детский врач">false</param>
@@ -953,7 +979,7 @@
                 <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>1022,1023</set-ids>
+                <set-ids>1022</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b47e16c2ee0d12cc9a9a0dc3132e7452.jpg</picture>
                 <name>Шабарова Ирина Валерьевна</name>
                 <param name="Фамилия">Шабарова</param>
