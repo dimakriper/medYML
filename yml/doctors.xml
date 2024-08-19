@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-06-26 14:18">
+<yml_catalog date="2024-08-19 11:22">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -168,7 +168,7 @@
                 <param name="Фамилия">Антропова</param>
                 <param name="Имя">Марина</param>
                 <param name="Отчество">Вениаминовна</param>
-                <param name="Годы опыта">39</param>
+                <param name="Годы опыта">40</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -238,7 +238,7 @@
             </offer>
             <offer id="4783">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
-                <price>1000</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1544,1543,58</set-ids>
@@ -247,7 +247,7 @@
                 <param name="Фамилия">Батталова</param>
                 <param name="Имя">Наиля</param>
                 <param name="Отчество">Валижановна</param>
-                <param name="Годы опыта">36</param>
+                <param name="Годы опыта">37</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">true</param>
@@ -406,7 +406,7 @@
                 <param name="Фамилия">Гурьев</param>
                 <param name="Имя">Николай</param>
                 <param name="Отчество">Павлович</param>
-                <param name="Годы опыта">46</param>
+                <param name="Годы опыта">47</param>
                 <param name="Город">г. Ярославль</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Детский врач">false</param>
@@ -472,32 +472,6 @@
                 <param name="внутренний идентификатор врача">8330</param>
                 <param name="внутренний идентификатор клиники">550</param>
                 <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="4808">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
-                <price>1400</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>22,451</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/91eeef4c4e14411c31d4bdd06dab9f0b.jpg</picture>
-                <name>Капранов Александр Николаевич</name>
-                <param name="Фамилия">Капранов</param>
-                <param name="Имя">Александр</param>
-                <param name="Отчество">Николаевич</param>
-                <param name="Годы опыта">28</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">МЕДИКОР</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">4808</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
@@ -582,7 +556,7 @@
             </offer>
             <offer id="4793">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4793</url>
-                <price>1400</price>
+                <price>400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>512</set-ids>
@@ -923,7 +897,7 @@
             </offer>
             <offer id="6110">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=6110</url>
-                <price>1400</price>
+                <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>645,31</set-ids>
