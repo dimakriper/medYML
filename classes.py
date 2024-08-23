@@ -35,7 +35,7 @@ class Offer:
         self.service_id = ''
         self.id = ''
         self.url = ''
-        self.price = ''
+        self.price = '0'
         self.currencyId = 'RUR'
         self.categoryId = '1'
         self.set_ids = []
@@ -119,11 +119,11 @@ class Offer:
     def set_price(self):
         if self.id:
             p = requests.post('https://app.rnova.org/api/public/getServices',
-                              {'api_key': manage.api_key, 'user_id': self.id})
+                              {'api_key': manage.api_key, 'user_id': self.id, 'term': "Консультация"})
             p_data = p.json()["data"]
-            for item in p_data:
-                if item["title"].find('Доплата') == -1:
-                    self.price = item["price"]
-                    self.service_id = str(item["service_id"])
-                    return
+
+            if p_data:
+                print(p_data[0]['title'])
+                self.price = p_data[0]['price'] #default 0
+
 

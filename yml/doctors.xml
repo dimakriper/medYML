@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-08-23 13:57">
+<yml_catalog date="2024-08-23 14:50">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -211,7 +211,7 @@
             </offer>
             <offer id="12659">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=12659</url>
-                <price>800</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>451</set-ids>
@@ -291,7 +291,7 @@
             </offer>
             <offer id="9382">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=9382</url>
-                <price>800</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>508,717</set-ids>
@@ -317,7 +317,7 @@
             </offer>
             <offer id="20344">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=20344</url>
-                <price>800</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>508</set-ids>
@@ -451,7 +451,7 @@
             </offer>
             <offer id="8330">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8330</url>
-                <price>1000</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>4,646,645,25,31</set-ids>
@@ -529,7 +529,7 @@
             </offer>
             <offer id="4831">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4831</url>
-                <price>800</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>510,508</set-ids>
@@ -582,7 +582,7 @@
             </offer>
             <offer id="4793">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4793</url>
-                <price>400</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>512</set-ids>
@@ -635,7 +635,7 @@
             </offer>
             <offer id="26050">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=26050</url>
-                <price>350</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>509,508,511</set-ids>
@@ -687,7 +687,7 @@
             </offer>
             <offer id="25072">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=25072</url>
-                <price>800</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>508</set-ids>
@@ -713,7 +713,7 @@
             </offer>
             <offer id="5883">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=5883</url>
-                <price>350</price>
+                <price>0</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>509,57,511</set-ids>
@@ -740,7 +740,7 @@
             </offer>
             <offer id="26977">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=26977</url>
-                <price>1100</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1675,508</set-ids>
@@ -923,7 +923,7 @@
             </offer>
             <offer id="6110">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=6110</url>
-                <price>350</price>
+                <price>1400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>645,31</set-ids>
