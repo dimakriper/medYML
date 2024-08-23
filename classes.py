@@ -92,7 +92,7 @@ class Offer:
             # TODO: add education, add schedule
         }
     def set_content(self, data):
-        if data["role"][0] == '1914':
+        if '1914' in data["role"]:
             self.avatar = data["avatar"]
             if len(data["contacts"]) > 0 and data["contacts"][0]["type"] == 'mobile': self.phone = data["contacts"][0]["value"]
             self.surname, self.name, self.midname = data["name"].split()

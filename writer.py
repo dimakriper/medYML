@@ -51,6 +51,7 @@ def create_yml(header, body):
     offers = ET.SubElement(shop, 'offers')
 
     for item in body:
+        print(item.id, "|")
         profession = [d["id"] for d in header.sets if d["id"] in item.profession]
         if item.experience_years and len(profession) > 0:
             try:
@@ -85,9 +86,10 @@ def create_yml(header, body):
                     else:
                         logger.error(f'{key} raised in error. param skippet in item {item.id}')
             except:
-                logger.error('%s raised an error' % item.name)
+                logger.error('%s raised an error' % (item.id))
                 raise
         else:
+
             logger.error(f'item {item.id} has lack of data provided. item is skipped')
     mydata = minidom.parseString(ET.tostring(data)).toprettyxml(indent='    ')
 
