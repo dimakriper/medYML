@@ -88,7 +88,7 @@ class Offer:
             "Вызов на дом": self.is_outside,
             "Прием по видеосвязи": self.is_telemedicine,
             "Категория": self.qualification,
-            "Онлайн-расписание": 'true',
+            "Онлайн-расписание": 'true'
             # TODO: add education, add schedule
         }
     def set_content(self, data):
@@ -115,8 +115,6 @@ class Offer:
             self.education = data["education"]
             self.id = f'{data["id"]}'.lower()
             self.url = f'https://mcmedikor.ru/zapis-na-vizit?doctor={self.id}'
-            self.education_courses = data['education_courses']
-
 
     def set_price(self):
         if self.id:
