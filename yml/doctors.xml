@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-11-11 04:41">
+<yml_catalog date="2024-11-11 11:44">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
         <url>https://mcmedikor.ru</url>
-        <picture>https://rawcdn.githack.com/dimakriper/medYML/8a5a17dfdec61c87629819f6a0e6153af2878628/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20%D0%A6%D0%9D%D0%9C.jpg</picture>
+        <picture>https://mcmedikor.ru/f/logotip_cnm.jpg</picture>
         <currencies>
             <currency id="RUR" rate="1"/>
         </currencies>
@@ -138,9 +138,6 @@
                 <set-ids>23</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/eab131cb782b83e350aba2a22458e983.jpg</picture>
                 <name>Абросимов Альберт Викторович</name>
-                <description>Невролог. Взрослый. Стаж 33 года.&lt;br /&gt;
-&lt;br /&gt;
-Выезжает на дом. Специализируется на диагностике и лечении центральной и периферической нервной системы. Ведёт приём пациентов по следующим вопросам: * головные боли; * боли в спине и другие болевые синдромы; * головокружения; * нарушения координации; * нарушения сна и др. Назначает план реабилитации в случае перенесённого инсульта, а также черепно-мозговых травм.&amp;nbsp;</description>
                 <param name="Фамилия">Абросимов</param>
                 <param name="Имя">Альберт</param>
                 <param name="Отчество">Викторович</param>
@@ -477,7 +474,7 @@
             </offer>
             <offer id="4808">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4808</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>22</set-ids>
