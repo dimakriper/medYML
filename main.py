@@ -5,10 +5,10 @@ from writer import create_yml
 logger.info('START')
 try:
     header, body = get_data()
+    create_yml(header, body)
 except Exception as e:
     logger.critical(e, exc_info=True)
-    logger.error('reader module raised an error')
-print(header, body)
-create_yml(header, body)
+    logger.error('something went wrong')
+
 logger.info('END\n\n')
 

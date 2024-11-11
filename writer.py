@@ -14,6 +14,7 @@ scope: list with settings
 """
 
 def create_yml(header, body):
+    logger.info('START CREATING DOCUMENT')
     yml_name = 'doctors.xml'
 
     now = datetime.now()
@@ -92,10 +93,11 @@ def create_yml(header, body):
         else:
 
             logger.error(f'item {item.id} has lack of data provided. item is skipped')
+    print(f'{project_root}{os.sep}yml{os.sep}{yml_name}')
+
     mydata = minidom.parseString(ET.tostring(data)).toprettyxml(indent='    ')
 
     # os.mkdir('yml')
-    print(f'{project_root}/yml/{yml_name}')
-    with open(f'{project_root}/yml/{yml_name}', 'w', encoding='utf-8') as yml:
+    with open(f'{project_root}{os.sep}yml{os.sep}{yml_name}', 'w', encoding='utf-8') as yml:
         yml.write(mydata)
-
+    logger.info('END CREATING DOCUMENT')

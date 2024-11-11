@@ -8,8 +8,8 @@ This module is for getting paths to input data (CMLs in folder)
 and settings for output files
 """
 x = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.split(x)[0] + os.sep + 'medYML'
-
+project_root = x # os.path.split(x)[0] + os.sep + 'medYML (2)'
+print(x, project_root)
 config = ConfigParser()
 config.read(project_root + os.sep + 'settings.ini')
 

@@ -126,6 +126,6 @@ class Offer:
 
             if p_data:
                 print(p_data[0]['title'])
-                self.price = p_data[0]['price'] #default 0
+                self.price = str(p_data[0]['price']) #default 0
 
 

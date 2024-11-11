@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2024-09-13 19:31">
+<yml_catalog date="2024-11-11 04:41">
     <shop>
         <name>МЕДИКОР</name>
         <company>ООО &quot;МЕДИКОР&quot;</company>
@@ -132,7 +132,7 @@
         <offers>
             <offer id="4796">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4796</url>
-                <price>1500</price>
+                <price>1700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>23</set-ids>
@@ -162,7 +162,7 @@
             </offer>
             <offer id="4723">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4723</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>48</set-ids>
@@ -250,7 +250,7 @@
             </offer>
             <offer id="4783">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4783</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1544,1543,58</set-ids>
@@ -278,7 +278,7 @@
             </offer>
             <offer id="7467">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=7467</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>4,48</set-ids>
@@ -332,37 +332,9 @@
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
-            <offer id="20344">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=20344</url>
-                <price>0</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>508</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/84f32fb127a131d16ee5d43ba6de18c1.jpg</picture>
-                <name>Воронина Мария Владимировна</name>
-                <description>Узи-специалист. Взрослый. Стаж 18 лет.&amp;nbsp;</description>
-                <param name="Фамилия">Воронина</param>
-                <param name="Имя">Мария</param>
-                <param name="Отчество">Владимировна</param>
-                <param name="Годы опыта">19</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">МЕДИКОР</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">20344</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Категория">Первая</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
             <offer id="24029">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=24029</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1543</set-ids>
@@ -388,15 +360,13 @@
             </offer>
             <offer id="4802">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4802</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>15,57</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/d3f1445f9e4cd6374ae0b322d325e546.jpg</picture>
                 <name>Голубева Наталья Владимировна</name>
-                <description>Кардиолог. Взрослый. Стаж 31 год.&lt;br /&gt;
-&lt;br /&gt;
-Доктор специализируется на лечении заболеваний сердечно-сосудистой системы: * гипертонии; * ишемической болезни сердца (ИБС); * нарушений ритма и проводимости сердца; * хронической сердечной недостаточности и др. Выполняет эхокардиографию (ЭхоКГ), электрокардиографию (ЭКГ), триплекс БЦА, холтеровское мониторирование ЭКГ. Выезжает на дом.</description>
+                <description>Доктор специализируется на лечении заболеваний сердечно-сосудистой системы: * гипертонии; * ишемической болезни сердца (ИБС); * нарушений ритма и проводимости сердца; * хронической сердечной недостаточности и др. Выполняет электрокардиографию (ЭКГ), холтеровское мониторирование ЭКГ. Выезжает на дом.</description>
                 <param name="Фамилия">Голубева</param>
                 <param name="Имя">Наталья</param>
                 <param name="Отчество">Владимировна</param>
@@ -418,7 +388,7 @@
             </offer>
             <offer id="4800">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4800</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>23</set-ids>
@@ -448,7 +418,7 @@
             </offer>
             <offer id="4797">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4797</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>22,23</set-ids>
@@ -478,13 +448,15 @@
             </offer>
             <offer id="8330">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8330</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>4,646,645,25,31</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/15207d2d3d7f56788815229dced93d92.jpg</picture>
                 <name>Захаренко Дмитрий Иванович</name>
-                <description>Специализируется на диагностике, лечении и профилактике детских заболеваний, заболеваний желудочно-кишечного тракта (гастрит, дуоденит, язва желудка, воспалительные заболевания кишечника, хронические гепатиты и &amp;nbsp;почек (нефрит, пиелонефрит) у взрослых и детей. &amp;nbsp;</description>
+                <description>&lt;strong&gt;Просим записываться на прием по телефону или через официальный сайт клиники&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Специализируется на диагностике, лечении и профилактике детских заболеваний, заболеваний желудочно-кишечного тракта (гастрит, дуоденит, язва желудка, воспалительные заболевания кишечника, хронические гепатиты и &amp;nbsp;почек (нефрит, пиелонефрит) у взрослых и детей. &amp;nbsp;</description>
                 <param name="Фамилия">Захаренко</param>
                 <param name="Имя">Дмитрий</param>
                 <param name="Отчество">Иванович</param>
@@ -534,7 +506,7 @@
             </offer>
             <offer id="23194">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=23194</url>
-                <price>1500</price>
+                <price>1700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>40</set-ids>
@@ -591,7 +563,7 @@
             </offer>
             <offer id="4782">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4782</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>58</set-ids>
@@ -647,66 +619,9 @@
                 <param name="Прием по видеосвязи">false</param>
                 <param name="Онлайн-расписание">true</param>
             </offer>
-            <offer id="12270">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=12270</url>
-                <price>1900</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>43</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/b79944a7dd416600ba95d576f3affea6.jpg</picture>
-                <name>Лончакова Оксана Михайловна </name>
-                <description>&lt;p&gt;Сосудистый хирург. Взрослый. Стаж 17 лет. КМН.&lt;/p&gt;
-
-&lt;p&gt;Врач занимается заболеваниями сосудистой системы: центральной и периферической. Лончакова Оксана Михайловна владеет хирургическими и консервативными средствами лечения: стентирование, ангиопластика, операции на артериях и др.&lt;/p&gt;
-</description>
-                <param name="Фамилия">Лончакова</param>
-                <param name="Имя">Оксана</param>
-                <param name="Отчество">Михайловна</param>
-                <param name="Годы опыта">19</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">МЕДИКОР</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">12270</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">true</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Категория">Первая</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
-            <offer id="26050">
-                <url>https://mcmedikor.ru/zapis-na-vizit?doctor=26050</url>
-                <price>0</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <set-ids>509,508,511</set-ids>
-                <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/04645e15f4f91e50250d6d70e741e3b5.jpg</picture>
-                <name>Мальцева Анна Геннадьевна</name>
-                <param name="Фамилия">Мальцева</param>
-                <param name="Имя">Анна</param>
-                <param name="Отчество">Геннадьевна</param>
-                <param name="Годы опыта">10</param>
-                <param name="Город">г. Ярославль</param>
-                <param name="Взрослый врач">true</param>
-                <param name="Детский врач">false</param>
-                <param name="Город клиники">г. Ярославль</param>
-                <param name="Адрес клиники">г. Ярославль, ул. Республиканская, д. 16, к. А</param>
-                <param name="Название клиники">МЕДИКОР</param>
-                <param name="Возможность записи">true</param>
-                <param name="Телефон для записи">+7 (4852) 20-85-03</param>
-                <param name="внутренний идентификатор врача">26050</param>
-                <param name="внутренний идентификатор клиники">550</param>
-                <param name="Вызов на дом">false</param>
-                <param name="Прием по видеосвязи">false</param>
-                <param name="Онлайн-расписание">true</param>
-            </offer>
             <offer id="4799">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4799</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>23</set-ids>
@@ -814,7 +729,7 @@
             </offer>
             <offer id="4781">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4781</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>48</set-ids>
@@ -844,7 +759,7 @@
             </offer>
             <offer id="4823">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4823</url>
-                <price>1500</price>
+                <price>1700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>59</set-ids>
@@ -926,10 +841,10 @@
             </offer>
             <offer id="8088">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=8088</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
-                <set-ids>15,48</set-ids>
+                <set-ids>509,15,48</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/a07db3668602741621499387d2897ef6.jpg</picture>
                 <name>Сипилина Татьяна Алексеевна</name>
                 <description>Кардиолог, терапевт. Взрослый. Стаж 17 лет.&lt;br /&gt;
@@ -955,15 +870,13 @@
             </offer>
             <offer id="4822">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=4822</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>58</set-ids>
                 <picture>https://files.rnova.org/1a5089550b4756396f6a66b0c87fef4a/8bbb5878ba0d5fa09bd10567e4ec9579.jpg</picture>
                 <name>Смирнов Сергей Альбертович</name>
-                <description>Хирург. Взрослый. Стаж 31 год.&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-Смирнов Сергей Альбертович занимается профилактикой, диагностикой и хирургическим лечением заболеваний опухолевой природы, как доброкачественных, так и злокачественных.</description>
+                <description>Смирнов Сергей Альбертович занимается профилактикой, диагностикой и хирургическим лечением заболеваний опухолевой природы, как доброкачественных, так и злокачественных.</description>
                 <param name="Фамилия">Смирнов</param>
                 <param name="Имя">Сергей</param>
                 <param name="Отчество">Альбертович</param>
@@ -984,7 +897,7 @@
             </offer>
             <offer id="6110">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=6110</url>
-                <price>1400</price>
+                <price>1500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>645,31</set-ids>
@@ -1014,7 +927,7 @@
             </offer>
             <offer id="9919">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=9919</url>
-                <price>2000</price>
+                <price>2500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>764</set-ids>
@@ -1043,7 +956,7 @@
             </offer>
             <offer id="13203">
                 <url>https://mcmedikor.ru/zapis-na-vizit?doctor=13203</url>
-                <price>1500</price>
+                <price>1700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <set-ids>1022</set-ids>
