@@ -105,7 +105,7 @@ class Offer:
             self.is_telemedicine = f'{data["is_telemedicine"]}'.lower() if data["is_telemedicine"] else 'false'
             self.full_name = data["name"]
             self.experience_years = data["work_period"].split()[0]
-
+            self.description = data["doctor_info"]
             self.date_work_from = f'{data["date_work_from"]}'.lower()
             self.work_degree = f'{data["work_degree"]}'.lower()
             self.work_rank = f'{data["work_rank"]}'.lower()

@@ -75,9 +75,9 @@ def create_yml(header, body):
                 picture.text = item.avatar
                 name = ET.SubElement(offer, 'name')
                 name.text = item.full_name
-                if item.education_courses:
+                if item.description:
                     description = ET.SubElement(offer, 'description')
-                    description.text = item.education_courses
+                    description.text = item.description
                 params = item.get_params()
 
                 for key in params.keys():
