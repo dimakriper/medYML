@@ -14,7 +14,7 @@ class Shop:
         self.company = 'ООО "МЕДИКОР"'
         self.url = 'https://mcmedikor.ru'
         self.email = 'support-doctors@doctors.sample.s3.yandex.net'
-        self.picture = 'https://rawcdn.githack.com/dimakriper/medYML/8a5a17dfdec61c87629819f6a0e6153af2878628/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20%D0%A6%D0%9D%D0%9C.jpg'
+        self.picture = 'https://mcmedikor.ru/f/logotip_cnm.jpg'
         self.description = 'Каталог врачей'
         self.currency = {'id': 'RUR', 'rate': '1'}
         self.categories = [{'id' : "1", 'content' : "Врач"}]
